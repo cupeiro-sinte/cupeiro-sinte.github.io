@@ -10,11 +10,11 @@
 --------------------------------------------------------------*/
 :root {
   --background: #010E1B;
-  --highlight:#457B9D;
-  --highlight-light: #A8DADC;
+  --highlight:#3498db;
+  --highlight-light: #ed7d31;
   --contrast-font: #FFF ;
   --inactive-font: #DEE2E6;
-  --underline: #24ff07;
+  --underline: #72ad47;
 }
 body {
   font-family: "Open Sans", sans-serif;
