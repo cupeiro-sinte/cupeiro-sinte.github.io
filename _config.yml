@@ -1,18 +1,18 @@
 # Personal Information
 author: 
-  name: Facundo Quiñones
+  name: Iago Cupeiro Figueroa
   birthday: 27/10/1990
-  age: 32
-  city: San Juan, Argentina
-  phone: +54 9 264-4558066
-  email: quinonesjuanfacundo@gmail.com
+  age: 33
+  city: San Martiño de Guillar, Outeiro de Rei, Lugo
+  phone: (+34) 628 011 783
+  email: iagocupeiro@protonmail.com
   contact-form-id: https://formspree.io/f/<your-id> #Necessary to use form to send emails
   twitter: ""
   facebook: ""
   googleplus: ""
   instagram: ""
-  github: https://www.github.com/jfquinones
-  linkedin: https://www.linkedin.com/in/juan-facundo-quiñones 
+  github: https://www.github.com/cupeiro-sinte
+  linkedin: https://www.linkedin.com/in/iagocupeiro
 
 year: "2023"
 
@@ -43,6 +43,9 @@ languages:
   - code: "es"
     name: "Español"
     path: "/es"
+  - code: "gl"
+    name: "Galego"
+    path: "/gl"    
 
 exclude:
   - Gemfile
