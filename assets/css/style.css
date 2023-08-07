@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 :root {
   --background: #010E1B;
-  --highlight:#ed7d31;
+  --highlight:#3498db; /**#ed7d31;*/
   --highlight-light: #3498db;
   --contrast-font: #FFF ;
   --inactive-font: #DEE2E6;
