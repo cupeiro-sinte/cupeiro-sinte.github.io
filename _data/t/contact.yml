@@ -2,27 +2,36 @@
 social-profiles:
   en: Social Profiles
   es: Redes Sociales
+  gl: Redes Sociais
 your-name:
   en: Your name
-  es: Tu numbre
+  es: Tu nombre
+  gl: O teu nome
 your-email:
-  en: Your Email
-  es: Tu Email
+  en: Your e-mail
+  es: Tu correo electrónico
+  gl: O teu enderezo electrónico
 subject:
   en: Subject
   es: Asunto
+  gl: Asunto
 message:
   en: Message
   es: Mensaje
+  gl: Mensaxe
 loading:
   en: Loading
   es: Enviando
+  gl: Enviando
 error-message:
   en: An error ocurred while sending message
   es: Un error ocurrio al enviar el mensaje
+  gl: Ocorreu un erro ao enviar a mensaxe
 sent-message:
   en: You message has bent sent. Thank you!
   es: Tu mensaje ha sido enviado. Gracias
+  gl: A túa mensaxe foi enviada. Graciñas!
 submit:
   en: Send
   es: Enviar
+  gl: Enviar

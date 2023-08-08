@@ -53,6 +53,9 @@ categories:
       - en: Native Spanish
         es: Español Nativo
         icon: "fi fi-es"
+      - en: Native Galician
+        es: Gallego Nativo
+        icon: "fi fi-es-ga"
       - en: Python
         es: Python
         icon: "bx bxl-python"

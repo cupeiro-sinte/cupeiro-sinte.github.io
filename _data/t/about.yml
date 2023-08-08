@@ -9,23 +9,29 @@ description:
 birthday:
   en: Birthday
   es: Fecha de Nacimiento
+  gl: Data de nacemento
 age:
   en: Age
   es: Edad
+  gl: Idade
 phone:
   en: Phone
   es: Teléfono
+  gl: Teléfono
 city:
   en: City
   es: Ciudad
+  gl: Cidade
 email:
-  en: Email
-  es: Email
+  en: e-mail
+  es: Correo electrónico
+  gl: Enderezo electrónico
 
 
 interests:
   en: Interests
-  es: Interesado en
+  es: Mis intereses
+  gl: Os meus intereses
   
   list:
     - text:
