@@ -25,6 +25,12 @@ defaults:
       layout: "default"
       language: "en"
   - scope:
+      path: "gl"
+      type: "pages"
+    values:
+      layout: "default"
+      languages: gl
+  - scope:
       path: "es"
       type: "pages"
     values:
