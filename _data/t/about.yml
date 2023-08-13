@@ -1,11 +1,97 @@
 # About me translations
-description:
-  en: I am a mechanical engineer passionate about using new technologies, both hardware and software,
-      to create tools to solve problems as they arise. I like to be self-taught and read a lot to keep myself up-to-date.
-      I love to work in teams, learn, share, and teach what I have learned
-  es: Soy un ingeniero mecánico apasionado por utilizar las nuevas tecnologias, tanto Hardware como Software, para 
-      crear herramientas para solucionar los problemas que se presenten. Me gusta ser autodidacta y leer mucho para mantenerme actualizado.
-      Me encanta trabajar en equipo, poder aprender, compartir y enseñar lo que he aprendido.
+description: 
+  en: Hi! I am Iago, founder of Cupeiro Solucións Intelixentes de Enerxía (Sinte). 
+      I come from a family with many heating and plumbing installers.
+      I want to take this tradition a step further with my engineering and control expertise,
+      with the clear mission of reducing the energy use and carbon emissions of the building sector.
+      <br><br>
+      My current interests fall in the simulation and optimal control of integrated building and district thermal energy systems. 
+      Regarding intelligent control, my vision englobes a path that combines physical model-based optimal control and artificial intelligent methods 
+      such as deep learning.
+      I also have a clear weakness for geothermal energy, the latent energy that comes from the roots of our planet.
+      <br><br>
+      I have a PhD in Engineering Science from Katholiek Universiteit Leuven (KU Leuven), Belgium, supervised by prof. Lieve Helsen. 
+      My PhD thesis englobed the application of Model Predictive Control in buildings to reduce their energy use while keeping the required levels of thermal comfort. 
+      Particularly, I focused in hybrid GEOTABS buildings (high-inertia concrete buildings with an hybrid geothermal system)
+      and with emphasis in the long-term control of the geothermal system. 
+      I also realized a post-doc at the same university that aimed at improving the performance of industrial processes using artificial intelligence methods.
+      <br><br>
+      Before that, I studied Industrial Engineering with Mechanical Engineering expertise and a MSc in Energy and Sustainability both in University of Vigo,
+      where I also worked in the Solar Energy and Refrigeration group under the supervision of prof. Jośe Fernández Seara.
+      <br><br>
+      I have formation in management and entrepreneurship through the InnoEnergy PhD school, where I attended many courses in institutions such as ESADE, 
+      Grenoble École de Management or Uppsala University.
+      <br><br>
+      I also visited several institutions such as Polytéchnique Montréal under the supervision of prof. Massimo Cimmino
+      and Cork Institute of Technology under the supervision of prof. Matt Cotterell.
+      <br><br>
+      I am a devoted believer of education and the open-source community and, as such, many of the tools I use come from here. 
+      My publications are available on Google Scholar or ResearchGate and my open-source repositories can be found on Github.
+      <br><br>
+      In my free time I like all kind of outdoor activities including sports and traveling.
+      <br><br>
+  es: ¡Hola! Soy Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
+      Vengo de una familia llena de instaladores de calefacción y fontanería. 
+      Me gustaría llevar esta tradición un paso más allá con mis conocimientos en ingeniería y control,
+      con la clara misión de reducir las emisiones de carbono y la energía utilizada por los edificios.
+      <br><br>
+      Mis intereses incluyen la simulación energética y el control óptimo de sistemas térmicos y energéticos, 
+      en particular edificios y distritos y su integración completa.
+      Con respecto al control inteligente, mi vision engloba una combinación de control óptimo basado en modelos matemáticos que incluyan la física del sistema
+      y métodos de inteligencia artificial, como deep learning.
+      También tengo una clara debilidad por la energía geotérmica, la energía latente que proviene de las raíces de nuestro planeta. 
+      <br><br>
+      Tengo un doctorado en ciencia de la ingeniería por la Universidad de Lovaina (KU Leuven), Bélgica, supervisado por la prof. Lieve Helsen.
+      My tesis doctoral abarcó la aplicación de control predictivo por modelo (Model Predictive Control) a edificios para reducir la energía que utilizan 
+      a la par que mantener los niveles de confort térmico. En particular, me centré en edificios hybrid GEOTABS (edificios de hormigón con alta inercia térmica 
+      y con un sistema geotérmico híbrido) y con énfasis en el control a largo plazo del sistema geotérmico.
+      También realicé un post-doctorado en la misma universidad dirigido a mejorar el rendimiento de procesos industriales usando métodos de inteligencia artificial.
+      <br><br>
+      Anteriormente, estudié ingeniería industrial (especialidad mecánica) y un máster en energía y sostenibilidad, ambos en la Universidad de Vigo,
+      donde también trabajé en el grupo de Energía Solar y Refrigeración bajo la supervisión del prof. José Fernández Seara.
+      <br><br>
+      Tengo formación en administración y emprendimiento a través de la InnoEnergy PhD school, donde realicé varios cursos en instituciones como ESADE, 
+      la Escuela internacional de Gestión de Grenoble o la Universidad de Uppsala.
+      <br><br>
+      También visité como invitado instituciones como la Escuela Politécnica de Montreal bajo la supervisión del prof. Massimo Cimmino
+      o el Instituto Tecnológico de Cork bajo la supervisión del prof. Matt Cotterell.
+      <br><br>
+      Creo firmemente en la educación y la comunidad de código abierto y, por lo tanto, muchas de las herramientas que utilizo provienen de aquí. 
+      Mis publicaciones están disponibles en Google Scholar o ResearchGate y mis repositorios de código abierto se pueden encontrar en Github.
+      <br><br>
+      En mi tiempo libre me gusta cualquier tipo de actividad al aire libre, incluyendo deportes y viajar.
+      <br><br>
+  gl: ¡Ola! Son Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
+      Veño dunha una familia chea de instaladores de calefación y fontanaría. 
+      Gustaríame levar esta tradición un paso máis alá cos meus coñecementos en enxeñaría e control,
+      coa clara misión de reducir as emisións de carbono e a enerxía utilizada polos edificios.
+      <br><br>
+      Os meus intereses inclúen a simulación enerxética e o control óptimo de sistemas térmicos e enerxéticos, 
+      en particular edificios e distritos e a súa integración completa.
+      Con respeto ao control intelixente, a miña vision engloba unha combinación de control óptimo basado en modelos matemáticos que inclúan a física do sistema
+      e métodos de intelixencia artificial, como deep learning.
+      Tamén teño unha clara debilidade pola enerxía xeotérmica, a enerxía latente que ven das raíces do noso planeta. 
+      <br><br>
+      Teño un doutorado en ciencia da enxeñaría pola Universidade de Lovaina (KU Leuven), Bélxica, supervisado pola prof. Lieve Helsen.
+      A miña tese de doutoramento abarcou a aplicación de control preditivo por modelo (Model Predictive Control) a edificios para reducir a enerxía que utilizan 
+      á vez que manter os niveis de confort térmico. En particular, centreime en edificios hybrid GEOTABS (edificios de formigón con alta inercia térmica 
+      e máis cun un sistema xeotérmico híbrido) e con énfase no control a longo prazo do sistema xeotérmico.
+      Tamén realicei un post-doctouramento na misma universidade dirixido a mellorar o rendemento de procesos industriais usando métodos de intelixencia artificial.
+      <br><br>
+      Con anterioridade, estudei enxeñería industrial (especialidade mecánica) e un máster en enerxía e sustentabilidade, ámbolos dous na Universidade de Vigo,
+      onde tamén traballei no grupo de Enerxía Solar e Refrixeración baixo a supervisión do prof. José Fernández Seara.
+      <br><br>
+      Teño formación en administración e emprendemento a través da InnoEnergy PhD school, onde realicei varios cursos en institucións como ESADE, 
+      a Escola internacional de Xestión de Grenoble ou a Universidade de Uppsala.
+      <br><br>
+      Tamén visitei como invitado institucións como a Escola Politécnica de Montreal baixo a supervisión do prof. Massimo Cimmino
+      ou o Instituto Tecnolóxico de Cork baixo a supervisión do prof. Matt Cotterell.
+      <br><br>
+      Creo firmemente na educación e na comunidade de código aberto e, polo tanto, moitas das ferramentas que utilizo veñen de aquí. 
+      As miñas publicacións están dispoñibles en Google Scholar ou ResearchGate e os meus repositorios de código aberto podense atopar en Github.
+      <br><br>
+      No meu tempo de lecer gústame calquera tipo de actividade ao aire libre, incluíndo deportes e viaxar.
+      <br><br>
 birthday:
   en: Birthday
   es: Fecha de Nacimiento
@@ -35,30 +121,47 @@ interests:
   
   list:
     - text:
-        en: Software Development
-        es: Desarrollo de Software
-      icon: ri-global-line
+        en: Building and district thermal energy simulations and design
+        es: Simulación energética y diseño de edificios y distritos
+        gl: Simulación enerxética e deseño de edificios e distritos
+      icon: ri-community-line
     - text:
-        en: Machine Learning
-        es: Aprendizaje Automatico
+        en: Mathematical modeling of physical systems
+        es: Modelado matemático de sistemas físicos
+        gl: Modelado matemático de sistemas fisicos
+      icon: bx bxs-cube 
+    - text:
+        en: Model Predictive Control
+        es: Control predictivo por modelo
+        gl: Control preditivo por modelo
       icon: bx bx-brain
     - text:
-        en: Algorithms
-        es: Algoritmos
-      icon: ri-file-list-3-line
+        en: Artifical intelligente and deep learning
+        es: Inteligencia artificial y deep learning
+        gl: Intelixencia artifical e deep learning
+      icon: bx bx-git-branch
     - text:
-        en: Industrial Automation
-        es: Automatizacion Industrial
-      icon: ri-sensor-line
+        en: Optimization
+        es: Optimización
+        gl: Optimización
+      icon: ri-list-settings-line
     - text:
-        en: Materials
-        es: Materiales
-      icon: ri-stack-line
+        en: Data science and processing
+        es: Ciencia y procesado de datos 
+        gl: Ciencia e procesado de datos
+      icon: bx bx-data
     - text:
-        en: Maintenance
-        es: Mantenimiento
-      icon: ri-settings-5-line
+        en: Geotermal, solar and other renewable energies
+        es: Energía geotérmica, solar y otras renovables
+        gl: Enerxía xeotérmica, solar e outras renovábeis
+      icon: bx bx-world
     - text:
-        en: Quality Assurance
-        es: Gestion de Calidad
-      icon: bx bx-check-shield
+        en: Software development
+        es: Desarrollo de software
+        gl: Desenvolvemento de software
+      icon: ri-computer-line
+    - text:
+        en: Education, research and open-source
+        es: Educación, investigación y código abierto
+        gl: Educación, investigación e código aberto
+      icon: bx bx-book-open
