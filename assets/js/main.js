@@ -282,39 +282,39 @@
   **/
   let form = document.getElementById("contact-form");
     
-  async function handleSubmit(event) {
-    event.preventDefault();
-    /*Set Loading*/
-    thisForm.querySelector('.loading').classList.add('d-block');
-    thisForm.querySelector('.error-message').classList.remove('d-block');
-    thisForm.querySelector('.sent-message').classList.remove('d-block');
+  // async function handleSubmit(event) {
+  //   event.preventDefault();
+  //   /*Set Loading*/
+  //   form.querySelector('.loading').classList.add('d-block');
+  //   form.querySelector('.error-message').classList.remove('d-block');
+  //   thisForm.querySelector('.sent-message').classList.remove('d-block');
 
-    var data = new FormData(event.target);
-    fetch(event.target.action, {
-      method: form.method,
-      body: data,
-      headers: {
-          'Accept': 'application/json'
-      }
-    }).then(response => {
-      if (response.ok) {
-        thisForm.querySelector('.sent-message').classList.add('d-block');
-        form.reset()
-      } else {
-        response.json().then(data => {
-          if (Object.hasOwn(data, 'errors')) {
-            console.log("hasOwn" + data["errors"].map(error => error["message"]).join(", "))
-            displayError(form, data["errors"].map(error => error["message"]).join(", "));
-          } else {
-            displayError(form,thisForm.querySelector('.error-message').getAttribute("default"))
-            console.log("default")
-          }
-        })
-      }
-    }).catch(error => {
-      displayError(form,error)
-    });
-  }
+  //   var data = new FormData(event.target);
+  //   fetch(event.target.action, {
+  //     method: form.method,
+  //     body: data,
+  //     headers: {
+  //         'Accept': 'application/json'
+  //     }
+  //   }).then(response => {
+  //     if (response.ok) {
+  //       thisForm.querySelector('.sent-message').classList.add('d-block');
+  //       form.reset()
+  //     } else {
+  //       response.json().then(data => {
+  //         if (Object.hasOwn(data, 'errors')) {
+  //           console.log("hasOwn" + data["errors"].map(error => error["message"]).join(", "))
+  //           displayError(form, data["errors"].map(error => error["message"]).join(", "));
+  //         } else {
+  //           displayError(form,thisForm.querySelector('.error-message').getAttribute("default"))
+  //           console.log("default")
+  //         }
+  //       })
+  //     }
+  //   }).catch(error => {
+  //     displayError(form,error)
+  //   });
+  // }
   form.addEventListener("submit", handleSubmit)
 
   function displayError(thisForm, error) {
