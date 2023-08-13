@@ -8,9 +8,9 @@ about:
   es: Sobre mi
   gl: Sobre min
 resume: 
-  en: Resume
-  es: CV
-  gl: CV
+  en: Trajectory
+  es: Trayectoria
+  gl: Traxectoria
 skills: 
   en: Skills
   es: Habilidades
@@ -33,6 +33,12 @@ i-am:
   en: #I'm
   es: #Soy
   gl: #Son
+
+#Flag icons
+icons:
+  en: "fi fi-gb"
+  es: "fi fi-es"
+  gl: "fi fi-es-ga"
 
 
 
