@@ -7,7 +7,7 @@ author:
   city: San Martiño de Guillar, Outeiro de Rei, Lugo
   phone: (+34) 628 011 783
   email: iagocupeiro@protonmail.com
-  contact-form-id: https://formspree.io/f/<your-id> #Necessary to use form to send emails
+  contact-form-id: mailto:iagocupeiro@protonmail.com #Necessary to use form to send emails
   twitter: ""
   facebook: ""
   googleplus: ""

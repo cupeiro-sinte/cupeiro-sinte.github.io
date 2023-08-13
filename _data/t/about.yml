@@ -105,9 +105,9 @@ phone:
   es: Teléfono
   gl: Teléfono
 city:
-  en: City
-  es: Ciudad
-  gl: Cidade
+  en: Address
+  es: Domicilio fiscal
+  gl: Enderezo fiscal
 email:
   en: e-mail
   es: Correo electrónico
