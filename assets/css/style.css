@@ -127,6 +127,12 @@ h1, h2, h3, h4, h5, h6 {
   height: 50px;
 }
 
+
+#contact .social-links a:hover i.bx {
+  color: var(--background);
+  background: var(--highlight);
+}
+
 #header .social-links a:hover i.bx{
   color:var(--background);
   background: var(--highlight-light);
