@@ -277,6 +277,32 @@
 
   },false)
 
+  // Collapsible button logic
+
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  var j;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      this.children[0].classList.toggle("bx-chevron-down");
+      this.children[0].classList.toggle("bx-chevron-up");
+        if (this.parentElement.nextElementSibling.style.maxHeight){
+          this.parentElement.nextElementSibling.style.maxHeight = null;
+        } 
+        else {
+          this.parentElement.nextElementSibling.style.maxHeight = this.parentElement.nextElementSibling.scrollHeight + "px";
+        }
+        // if (this.children[0].className = "bx bx-chevron-down"){
+        //   this.children[0].className = "bx bx-chevron-up";
+        // }
+        // else {
+        //   this.children[0].className = "bx bx-chevron-down"; 
+        // }
+    });
+  }
+
   /**
    * Send email form
   **/

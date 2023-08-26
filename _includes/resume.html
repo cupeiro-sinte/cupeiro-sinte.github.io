@@ -8,8 +8,23 @@
       </div>
 
       <div class="row">
+        <!-- Experience section -->
         <div class="col-lg-6">
-          <h3 class="resume-title">{{ site.data.t.resume.sumary.title[page.lang] }}</h3>
+          <h3 class="resume-title">{{ site.data.t.resume.experience.title[page.lang] }} <button class="collapsible btn btn-primary"><i class="bx bx-chevron-down"></i></button></h3>
+          <div class="collapsible-content experience">
+          {% for item in site.data.t.resume.experience.items %}
+          <div class="resume-item">
+            <h4>{{ item.title[page.lang] }}</h4>
+            <p><em>{{ item.place[page.lang] }}</em></p>
+            <h5>{{ item.period[page.lang] }}</h5>
+            <p>{{ item.description[page.lang] }}</p>
+          </div>
+          {% endfor %}
+          </div>
+          
+        </div>
+        <div class="col-lg-6">
+          <!-- <h3 class="resume-title">{{ site.data.t.resume.sumary.title[page.lang] }}</h3>
           <div class="resume-item pb-0">
             <h4>{{site.author.name}}</h4>
             <p>{{ site.data.t.resume.sumary.items[0].description[page.lang] }}</p>
@@ -20,32 +35,66 @@
               <li>{{site.author.email}}</li>
             </ul>
             </p>
-          </div>
+          </div> -->
           <!-- Education section -->
-          <h3 class="resume-title">{{ site.data.t.resume.education.title[page.lang] }}</h3>
+          <h3 class="resume-title">{{ site.data.t.resume.education.title[page.lang] }} <button class="collapsible btn btn-primary"><i class="bx bx-chevron-down"></i></button></h3>
+          <div class="collapsible-content education">
           {% for item in site.data.t.resume.education.items %}
           <div class="resume-item">
             <h4>{{ item.title[page.lang] }}</h4>
             <p><em>{{ item.place[page.lang] }}</em></p>
-            <h5>{{ item.period }}</h5>
+            <h5>{{ item.period[page.lang] }}</h5>
             <p>{{ item.description[page.lang] }}</p>
           </div>
           {% endfor %}
+          </div>
         </div>
-          <!-- Experience section -->
+      </div>
+
+      <div class="row">
+        <!-- Teaching experience section -->
         <div class="col-lg-6">
-          <h3 class="resume-title">{{ site.data.t.resume.experience.title[page.lang] }}</h3>
-          {% for item in site.data.t.resume.experience.items %}
-          <div class="resume-item" >
+          <h3 class="resume-title">{{ site.data.t.resume.teaching.title[page.lang] }} <button class="collapsible btn btn-primary"><i class="bx bx-chevron-down"></i></button></h3>
+          <div class="collapsible-content teaching">
+          {% for item in site.data.t.resume.teaching.items %}
+          <div class="resume-item">
             <h4>{{ item.title[page.lang] }}</h4>
             <p><em>{{ item.place[page.lang] }}</em></p>
-            <h5>{{ item.period }}</h5>
+            <h5>{{ item.period[page.lang] }}</h5>
             <p>{{ item.description[page.lang] }}</p>
           </div>
           {% endfor %}
+          </div>
           
         </div>
-      
+        <div class="col-lg-6">
+          <!-- <h3 class="resume-title">{{ site.data.t.resume.sumary.title[page.lang] }}</h3>
+          <div class="resume-item pb-0">
+            <h4>{{site.author.name}}</h4>
+            <p>{{ site.data.t.resume.sumary.items[0].description[page.lang] }}</p>
+            <p>
+            <ul>
+              <li>{{site.author.city}}</li>
+              <li>{{site.author.phone}}</li>
+              <li>{{site.author.email}}</li>
+            </ul>
+            </p>
+          </div> -->
+          <!-- Publications section -->
+          <h3 class="resume-title">{{ site.data.t.resume.publications.title[page.lang] }} <button class="collapsible btn btn-primary"><i class="bx bx-chevron-down"></i></button></h3>
+          <div class="collapsible-content publications">
+          {% for item in site.data.t.resume.publications.items %}
+          <div class="resume-item">
+            <h4>{{ item.title[page.lang] }}</h4>
+            <p><em>{{ item.place[page.lang] }}</em></p>
+            <h5>{{ item.period[page.lang] }}</h5>
+            <p>{{ item.description[page.lang] }}</p>
+          </div>
+          {% endfor %}
+          </div>
+        </div>
       </div>
+
+
     </div>
   </section><!-- End Resume Section -->

@@ -1,153 +1,913 @@
 #Resume Translations
 download-resume:
-  en: Donwload Resume
+  en: Download Resume
   es: Descargar CV
-  
-sumary:
-  title:
-    en: Sumary
-    es: Resumen
-  items:
-    - title:
-        en: Iago Cupeiro Figueroa
-        es: Iago Cupeiro Figueroa
-      period: ""
-      place: 
-        en: ""
-        es: ""
-      description:
-        en: "I am a mechanical engineer passionate about using new technologies, both hardware and software,
-            to create tools to solve problems as they arise. I like to be self-taught and read a lot to keep myself up-to-date.
-            I love to work in teams, learn, share, and teach what I have learned"
-        es: "Soy un ingeniero mecánico apasionado por utilizar las nuevas tecnologias, tanto Hardware como Software, para 
-            crear herramientas para solucionar los problemas que se presenten. Me gusta ser autodidacta y leer mucho para mantenerme actualizado.
-            Me encanta trabajar en equipo, poder aprender, compartir y enseñar lo que he aprendido."
-
+  gl: Descargar CV
+# sumary:
+#   title:
+#     en: Sumary
+#     es: Resumen
+#   items:
+#     - title:
+#         en: Iago Cupeiro Figueroa
+#         es: Iago Cupeiro Figueroa
+#       period: ""
+#       place: 
+#         en: ""
+#         es: ""
+#       description:
+#         en: "I am a mechanical engineer passionate about using new technologies, both hardware and software,
+#             to create tools to solve problems as they arise. I like to be self-taught and read a lot to keep myself up-to-date.
+#             I love to work in teams, learn, share, and teach what I have learned"
+#         es: "Soy un ingeniero mecánico apasionado por utilizar las nuevas tecnologias, tanto Hardware como Software, para 
+#             crear herramientas para solucionar los problemas que se presenten. Me gusta ser autodidacta y leer mucho para mantenerme actualizado.
+#             Me encanta trabajar en equipo, poder aprender, compartir y enseñar lo que he aprendido."
 education:
   title:
     en: Education
     es: Educación
+    gl: Educación
   items:
     - title:
-        en: Bachelor&#39s degree in Mechanical Engineering
-        es: Título de Grado en Ingeniería Mecánica
-      period: 2009-2017
+        en: PhD in Engineering Science (Mechanical Engineering)
+        es: Doctor en Ciencias de la Ingeniería (Ingeniería Mecánica)
+        gl: Doutor en Ciencias da Enxeñaría (Enxeñaría Mecánica)
+      period:
+        en: November 2016 - March 2021 
+        es: Noviembre 2016 - Marzo 2021
+        gl: Novembro 2016 - Marzo 2021
       place: 
-        en: National University of San Juan
-        es: Universidad Nacional de San Juan
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
       description: 
-        en: Degree in Mechanical Engineering with a focus on Mechatronics
-        es: Carrera en Ing. Mecánica con orientación en Mecatrónica
-
+        en: <u>Thesis title:</u> <i>Short- and long-term optimal control of hybrid GEOTABS buildings</i>
+        es: <u>Título de la tesis:</u> <i>Short- and long-term optimal control of hybrid GEOTABS buildings</i>
+        gl: <u>Título da tese:</u> <i>Short- and long-term optimal control of hybrid GEOTABS buildings</i>
     - title:
-        en: English Level B2-First Certificate in English (FCE)
-        es: Ingles Nivel B2-First Certificate in English (FCE)
-      period: 2009
+        en: InnoEnergy PhD School
+        es: InnoEnergy PhD School 
+        gl: InnoEnergy PhD School
+      period: 
+        en: March 2017 - March 2021
+        es: Marzo 2017 - Marzo 2021
+        gl: Marzo 2017 - Marzo 2021
       place: 
-        en: Cambridge University
-        es: Universidad de Cambridge
+        en: EIT-KIC InnoEnergy 
+        es: EIT-KIC InnoEnergy 
+        gl: EIT-KIC InnoEnergy
+      description: 
+        en: "<u>Courses followed:</u><br>
+            Managing Innovation & Entrepreneurship, ESADE<br>
+            Energy Economics, Grenoble École de Management<br>
+            IP Strategy/Academic Innovator Law, Uppsala University<br>
+            Teamwork and Leadership, AGH Krakow<br>"
+        es: "<u>Cursos realizados:</u><br>
+            Gestión de innovación y emprendimiento, ESADE<br>
+            Economía de la energía, Escuela internacional de Gestión de Grenoble<br>
+            Estrategias de propiedad intelectual y leyes para innovadores académicos, Universidad de Uppsala<br>
+            Trabajo en equipo y Liderazgo, AGH Universidad de Ciencia y Tecnología de Cracovia<br>"
+        gl: "<u>Cursos realizados:</u><br>
+            Xestión de innovación e emprendemento, ESADE<br>
+            Economía da enerxía, Escola internacional de Xestión de Grenoble<br>
+            Estratexias de propiedade intelectual e leis para innovadores académicos, Universidade de Uppsala<br>
+            Traballo en equipo e liderazgo, AGH Universidade de Ciencia e Tecnoloxía de Cracovia<br>"
+    - title: 
+        en: Visiting Researcher
+        es: Investigador invitado 
+        gl: Investigador convidado 
+      period: 
+        en: September 2019 - January 2020
+        es: Septiembre 2019 - Enero 2020
+        gl: Setembro 2019 - Xaneiro 2020
+      place: 
+        en: École Polytechnique Montréal
+        es: Escuela Politécnica de Montreal
+        gl: Escola Politécnica de Montreal
       description: 
         en: ""
         es: ""
-    
+        gl: ""
     - title: 
-        en: Artificial Vision Course (Coursera)
-        es: Curso de Visión Artificial (Coursera)
-      period: 2014
+        en: MSc Energy and Sustainability
+        es: Máster en Energía y Sostenibilidad
+        gl: Mestrado en Enerxía e Sustentabilidade
+      period:
+        en: September 2014 - July 2015
+        es: Septiembre 2014 - Julio 2015
+        gl: Setembro 2014 - Xullo 2015 
       place: 
-        en: University of Barcelona
-        es: Universitat de Barcelona
+        en: University of Vigo
+        es: Universidad de Vigo
+        gl: Universidade de Vigo
       description: 
         en: ""
         es: ""
-    
+        gl: ""
     - title: 
-        en: Public Speaking Course
-        es: Curso de Oratoria
-      period: 2013
+        en: Erasmus exchange
+        es: Intercambio Erasmus
+        gl: Intercambio Erasmus
+      period: 
+        en: September 2013 - Marzo 2014
+        es: Septiembre 2013 - Marzo 2014
+        gl: Setembro 2013 - Marzo 2014
       place: 
-        en: Cervantes Higher Institute
-        es: Instituto Superior Cervantes
+        en: Cork Institute of Technology
+        es: Instituto Tecnológico de Cork
+        gl: Instituto Tecnolóxico de Cork
       description: 
-        en: Course to learn how to convey messages efficiently.
-        es: Curso para aprender a transmitir mensajes de una manera eficiente.
-
+        en: ""
+        es: ""
+        gl: ""
+    - title: 
+        en: MSc Industrial Engineering w/ expertise in Mechanical Engineering
+        es: Ingeniería Superior Industrial, especialidad Mecánica
+        gl: Enxeñaría Superior Industrial, especialidade Mecánica
+      period:
+        en: September 2008 - April 2014
+        es: Septiembre 2008 - Abril 2014
+        gl: Setembro 2008 - Abril 2014
+      place: 
+        en: University of Vigo
+        es: Universidad de Vigo
+        gl: Universidade de Vigo
+      description: 
+        en: ""
+        es: ""
+        gl: ""
 experience:
   title:
     en: Experience
     es: Experiencia
+    gl: Experiencia
   items:
     - title:
-        en: Internship - Design of a Pelletizing Machine
-        es: Pasantía -  Diseño de una Máquina Peletizadora
-      period: 2016
+        en: Building control expert and development engineer
+        es: Experto en control de edificios e ingeniero de desarrollo
+        gl: Experto en control de edificios e enxeñeiro de desenvolvemento
+      period:
+        en: January 2022 - currently
+        es: Enero 2022 - actualidad
+        gl: Xaneiro 2022 - actualidade
       place: 
-        en: Research and Development Institute for Family Industry
-        es: Instituto de Investigación y Desarrollo para la Industria Familiar
+        en: DeltaQ
+        es: DeltaQ
+        gl: DeltaQ
       description:
-        en: Detailed design of a food pelletizing machine. Prototype testing, FEA software simulation
-          (Solidworks). Cloud co-working, drafting of blueprints
-        es: Diseño de detalle de una Máquina Peletizadora de Alimentos. Pruebas en prototipo, Simulación 
-          en Software FEA(Solidworks). Cloud Co-Working, Elaboración de Planos.
+        en: "Delivery department"
+        es: "Departamento de desarrollo"
+        gl: "Departamento de desenvolvemento"
     - title:
-        en: Redesign of Control System for a Tensile Testing Machine
-        es: Rediseño de Sistema de Control para una Máquina de Ensayos de Tracción
-      period: 2017
+        en: Post-doctoral researcher
+        es: Investigador postdoctoral
+        gl: Investigador posdoutoral
+      period:
+        en: March 2021 - November 2021
+        es: Marzo 2021 - Noviembre 2021
+        gl: Marzo 2021 - Novembro 2021
       place: 
-        en: Institute of Applied Mechanics, National University of San Juan
-        es: Instituto de Mecánica Aplicada, Universidad Nacional de San Juan
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
       description:
-        en: The control part was designed integrally using Arduino, Raspberry Pi, and electronic parts for the hardware.
-          On the other hand, Processing (Java) was used for the software.
-        es: Se diseño integralmente la parte de Control. Usando Arduino, Raspberry Pi, y Piezas de Electronicas para el Hardware.
-          Por otro lado Processing (Java) para el Software
-
+        en: "<u>Department:</u> Mechanical Engineering<br>
+            <u>Division:</u> Applied Mechanics and Energy Conversion (TME)<br>
+            <u>Research group:</u> Thermal systems simulation (The Sysi's)<br>
+            <u>Project:</u> InduFlexControl <i>Design for flexibility for carbon-free energy-intensive industry</i><br>"
+        es: "<u>Departamento:</u> Ingeniería Mecánica<br>
+            <u>División:</u> Mecánica Aplicada y Conversión de Energía (TME)<br>
+            <u>Grupo de investigación:</u> Simulación de Sistemas Térmicos (The Sysi's)<br>
+            <u>Proyecto:</u> InduFlexControl <i>Design for flexibility for carbon-free energy-intensive industry</i><br>"
+        gl: "<u>Departamento:</u> Enxeñaría Mecánica<br>
+            <u>División:</u> Mecánica Aplicada e Conversión de Enerxía (TME)<br>
+            <u>Grupo de investigación:</u> Simulación de Sistemas Térmicos (The Sysi's)<br>
+            <u>Proxecto:</u> InduFlexControl <i>Design for flexibility for carbon-free energy-intensive industry</i><br>"
     - title:
-        en: Head of Mechanical Maintenance
-        es: Jefe de Mantenimiento Mecánico
-      period: 2018
+        en: Doctoral researcher
+        es: Investigador doctoral
+        gl: Investigador doutoral
+      period:
+        en: November 2016 - Marzo 2021
+        es: Noviembre 2016 - Marzo 2021
+        gl: Novembro 2021 - Marzo 2021
       place: 
-        en: Electrometalúrgica Andina
-        es: Electrometalúrgica Andina
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
       description:
-        en: Responsible for mechanical maintenance of hydroelectric power plants, furnaces, crushers, filters, compressed air
-          network, industrial water treatment system, and vehicles
-        es: Encargado del Mantenimiento Mecánico de Centrales Hidroeléctricas, Hornos, Trituraciones, Filtros, Red de Aire
-          Comprimido, Sistema De Tratamiento de Aguas Industriales y Movilidades
-    
+        en: "<u>Department:</u> Mechanical Engineering)<br>
+            <u>Division:</u> Applied Mechanics and Energy Conversion (TME)<br>
+            <u>Research group:</u> Thermal systems simulation (The Sysi's)<br>
+            <u>Project:</u> hybridGEOTABS <i>Controlling the power of the ground by integration</i><br>"
+        es: "<u>Departamento:</u> Ingeniería Mecánica<br>
+            <u>División:</u> Mecánica Aplicada y Conversión de Energía (TME)<br>
+            <u>Grupo de investigación:</u> Simulación de Sistemas Térmicos (The Sysi's)<br>
+            <u>Proyecto:</u> hybridGEOTABS <i>Controlling the power of the ground by integration</i><br>"
+        gl: "<u>Departamento:</u> Enxeñaría Mecánica<br>
+            <u>División:</u> Mecánica Aplicada e Conversión de Enerxía (TME)<br>
+            <u>Grupo de investigación:</u> Simulación de Sistemas Térmicos (The Sysi's)<br>
+            <u>Proxecto:</u> hybridGEOTABS <i>Controlling the power of the ground by integration</i><br>"
     - title:
-        en: Short-Term Planner
-        es: Planificador de Corto Plazo 
-      period: 2019-2020
+        en: Researcher
+        es: Investigador
+        gl: Investigador
+      period:
+        en: September 2014 - September 2016
+        es: Septiembre 2014 - Septiembre 2016
+        gl: Setembro 2014 - Setembro 2016
       place: 
-        en: Veladero's Mine (Barrick and Shandong Gold)
-        es: Mina Veladero (Barrick y Shandong Gold)
+        en: University of Vigo
+        es: Universidad de Vigo
+        gl: Universidade de Vigo
       description:
-        en: Programming of Preventive and Predictive Maintenance in process and crushing plant.
-        es: Programación de Mantenimiento Preventivo y Predictivo en planta de procesos y trituración
-
+        en: "<u>Department:</u> Mechanical Engineering, Heat Engines & Machines, and Fluids<br>
+             <u>Division:</u> Heat Engines & Machines<br>
+             <u>Research group:</u> Solar engineering and refrigeration<br>"
+        es: "<u>Departamento:</u> Ingeniería Mecánica, Máquinas y Motores Térmicos y Fluidos<br>
+             <u>División:</u> Máquinas y Motores Térmicos<br>
+             <u>Grupo de investigación:</u> Ingeniería Solar y Refrigeración<br>"
+        gl: "<u>Departamento:</u> Enxeñaría Mecánica, Máquinas e Motores Térmicos e Fluídos<br>
+             <u>División:</u> Máquinas e Motores Térmicos<br>
+             <u>Grupo de investigación:</u> Enxeñaría Solar e Refrixeración<br>"
     - title:
-        en: Head of Mechanical Maintenance
-        es: Jefe de Mantenimiento Mecánico
-      period: 2021-Today
+        en: Internship engineer
+        es: Ingeniero en prácticas
+        gl: Enxeñeiro en prácticas
+      period:
+        en: April 2014 - June 2014
+        es: Abril 2014 - Junio 2014
+        gl: Abril 2014 - Xuño 2014
       place: 
-        en: Sidertec
-        es: Sidertec
+        en: Lugo's heating and plumbing association (ALUFONCA)
+        es: Asociación lucense de fontanería y calefacción (ALUFONCA)
+        gl: Asociación lucense de fontanaría e calefacción (ALUFONCA)
       description:
-        en: Responsible for mechanical maintenance of furnaces, crushers, filters, compressed air
-          network, and industrial water treatment system.
-        es: Encargado del Mantenimiento Mecánico de Hornos, Trituraciones, Filtros, Red de Aire
-          Comprimido, Sistema De Tratamiento de Aguas Industriales.
-
+        en: "Processing authorizations to industry, council and other parties<br>
+            Technical advice to installation companies<br>
+            HVAC, DHW and gas projects support<br>"
+        es: "Tramitación de autorizaciones a industria, ayuntamiento y otras instituciones<br>
+            Asesoramiento técnico a empresas instaladoras<br>
+            Asistencia a proyectos de calefacción, agua caliente y gas<br>"
+        gl: "Tramitación de autorizacións a industria, concello e outras institucións<br>
+            Asesoramento técnico a empresas instaladoras<br>
+            Asistencia en proxectos de calefacción, auga quente e gas<br>"
+teaching:
+  title:
+    en: Teaching experience
+    es: Experiencia docente
+    gl: Experiencia docente
+  items:
     - title:
-        en: Industrial Automation and Control Manager
-        es: Encargado del Automatizacion y Control Industrial
-      period: 2022-Today
+        en: Supervision of master thesis
+        es: Supervisión de trabajos de fin de máster
+        gl: Supervisión de traballos de fin de mestrado
+      period:
+        en: September 2017 - November 2022
+        es: Septiembre 2017 - Noviembre 2022
+        gl: Setembro 2017 - Novembro 2022
       place: 
-        en: Sidertec
-        es: Sidertec
-      description:
-        en: Responsible for PLC and SCADA Design and Programming, Start-up, and Maintenance of Control System
-        es: Encargado del Diseño y Programacion PLC y SCADA, Puesta en Marcha y Mantenimiento del Sistema de Control. 
-
-   
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: <u>Thesis list</u>
+            <br/>
+            <br/>
+            <u>Thesis title:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
+            <u>Student:</u> Brett Lambeets<br/>
+            <u>Period:</u> September 2020 - June 2021<br/>
+            <br/>
+            <u>Thesis title:</u> Ontwerp van een tool voor het inschatten van belastingsduurcurves voor ruimteverwarming en koeling<br/>
+            <u>Student:</u> Bram Van den Broeck<br/>
+            <u>Period:</u> January 2020 - August 2020<br/>
+            <br/>
+            <u>Thesis title:</u> Methode voor economische optimalisatie van geothermische verwarmings-en koelsystemen<br/>
+            <u>Student:</u> Wouter Peere<br/>
+            <u>Period:</u> January 2020 - June 2020<br/>
+            <br/>
+            <u>Thesis title:</u> The influence of different control strategies on the design of geothermal borefields<br/>
+            <u>Student:</u> Bram Stockman<br/>
+            <u>Period:</u> September 2018 - August 2019<br/>
+            <br/>
+            <u>Thesis title:</u> Design and experimental implementation of a data interface for the optimal control of thermal systems<br/>
+            <u>Student:</u> Enric Perarnau Ollé<br/>
+            <u>Period:</u> September 2017 - August 2018<br/>
+        es: <u>Listado de trabajos de fin de máster</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
+            <u>Estudiante:</u> Brett Lambeets<br/>
+            <u>Periodo:</u> Septiembre 2020 - Junio 2021<br/>
+            <br/>
+            <u>Título:</u> Ontwerp van een tool voor het inschatten van belastingsduurcurves voor ruimteverwarming en koeling<br/>
+            <u>Estudiante:</u> Bram Van den Broeck<br/>
+            <u>Periodo:</u> Enero 2020 - Agosto 2020<br/>
+            <br/>
+            <u>Título:</u> Methode voor economische optimalisatie van geothermische verwarmings-en koelsystemen<br/>
+            <u>Estudiante:</u> Wouter Peere<br/>
+            <u>Periodo:</u> Enero 2020 - Junio 2020<br/>
+            <br/>
+            <u>Título:</u> Influencia de diferentes estrategias de control en el diseño de sistemas geotérmicos<br/>
+            <u>Estudiante:</u> Bram Stockman<br/>
+            <u>Periodo:</u> Septiembre 2018 - Agosto 2019<br/>
+            <br/>
+            <u>Título:</u> Diseño e implementación experimental de una interfaz de datos para el control óptimo de sistemas térmicos<br/>
+            <u>Estudiante:</u> Enric Perarnau Ollé<br/>
+            <u>Periodo:</u> Septiembre 2017 - Agosto 2018<br/>
+        gl: <u>Listado de traballos de fin de mestrado</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
+            <u>Estudante:</u> Brett Lambeets<br/>
+            <u>Período:</u> Setembro 2020 - Xuño 2021<br/>
+            <br/>
+            <u>Título:</u> Ontwerp van een tool voor het inschatten van belastingsduurcurves voor ruimteverwarming en koeling<br/>
+            <u>Estudante:</u> Bram Van den Broeck<br/>
+            <u>Período:</u> Xaneiro 2020 - Agosto 2020<br/>
+            <br/>
+            <u>Título:</u> Methode voor economische optimalisatie van geothermische verwarmings-en koelsystemen<br/>
+            <u>Estudante:</u> Wouter Peere<br/>
+            <u>Período:</u> Xaneiro 2020 - Xuño 2020<br/>
+            <br/>
+            <u>Título:</u> Influencia de diferentes estratexias de control para o deseño de sistemas xeotérmicos<br/>
+            <u>Estudante:</u> Bram Stockman<br/>
+            <u>Período:</u> Setembro 2018 - Agosto 2019<br/>
+            <br/>
+            <u>Título:</u> Deseño e implementación experimental dunha interfaz de datos para o control óptimo de sistemas térmicos<br/>
+            <u>Estudante:</u> Enric Perarnau Ollé<br/>
+            <u>Período:</u> Setembro 2017 - Agosto 2018<br/>
+    - title:
+        en: Thermal Systems & Energy Management
+        es: Sistemas térmicos y gestión de la energía
+        gl: Sistemas térmicos e xestión da enerxía
+      period:
+        en: January 2017 - June 2022 
+        es: Enero 2017 - Junio 2022
+        gl: Xaneiro 2017 - Xuño 2022
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "<u>2020-2022: GEOTABS session;</u> 
+            teaching the basics of GEOTABS buildings using an online platform, 
+            where the students have to design a GEOTABS building, 
+            its HVAC energy system and analyze and undestand its dynamic behavior<br>
+            <u>2017-2020: Heat pump laboratory;</u> 
+            teaching the basics of heat pumps to small groups of students, 
+            where they have to virtually interact with a real heat pump 
+            and demonstrate their understanding of the thermodynamic cycles"
+        es: "<u>2020-2022: Sesión GEOTABS;</u> 
+            principios básicos de edificios GEOTABS usando una plataforma online,
+            donde los estudiantes tienen que diseñar un edificio GEOTABS,
+            su sistema de calefacción y climatización y analizar y entender su comportamiento dinámico<br>
+            <u>2017-2020: Laboratorio de bombas de calor;</u> 
+            principios básicos de bombas de calor en pequeños grupos de estudiantes,
+            donde tienen que interactuar remotamente con una bomba de calor real
+            y demostrar su comprensión de los ciclos termodinámicos"
+        gl: "<u>2020-2022: Sesión GEOTABS;</u> 
+            principios básicos dos edificios GEOTABS usando unha plataforma online,
+            onde os estudantes teñen que deseñar un edificio GEOTABS,
+            o seu sistema de calefacción e climatización e analizar e comprender o seu comportamento dinámico<br>
+            <u>2017-2020: Laboratorio de bombas de calor;</u> 
+            principios básicos das bombas de calor en pequenos grupos de estudantes,
+            onde teñen que interactuar remotamente cunha bomba de calor real
+            e demostrar a súa comprensión dos ciclos termodinámicos"
+    - title:
+        en: Modelica Crash Course
+        es: Curso Intensivo de Modelica
+        gl: Curso Intensivo de Modelica
+      period:
+        en: September 2021
+        es: Septiembre 2021
+        gl: Setembro 2021
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "Day course introducing master students and fellow (PhD) researchers to 
+            the basicos of Modelica, Dymola and IDEAS"
+        es: "Curso intensivo introductorio de un día para estudiantes de máster e investigadores
+            (doctorales) sobre Modelica, Dymola e IDEAS"
+        gl: "Curso intensivo introdutorio dun día para estudantes de mestrado e investigadores
+            (doutorales) sobre Modelica, Dymola e IDEAS"
+    - title:
+        en: Integrated project
+        es: Proyecto de integración
+        gl: Proxecto de integración
+      period:
+        en: January 2017 - May 2021 
+        es: Enero 2017 - Mayo 2021
+        gl: Xaneiro 2017 - Maio 2021
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "Coaching groups of students of the first year in the Master of Engineering Science
+            (option mechanical engineering) in problem-solving oriented projects posed by a company.
+            The course focus is to challenge the students with real-life problems.<br/>
+            <br/>
+            <u>List of projects</u>
+            <br/>
+            <br/>
+            <u>Project title:</u> Solar assisted heat pumps in EPB<br/>
+            <u>Students:</u> Emma Michiels and Dylan Broos<br/>
+            <u>Period:</u> February 2021 - May 2021<br/>
+            <u>Company involved:</u> Vlaams Energie- en Klimaatagentschap<br/>
+            <br/>
+            <u>Project title:</u> Increasing the long-term efficiency of a zero-fossil-fuel collective energy concept in a historic city center<br/>
+            <u>Students:</u> Arno Messens and Anton Bex<br/>
+            <u>Period:</u> February 2021 - May 2021<br/>
+            <u>Company involved:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Project title:</u> The hurdle of domestic hot water in collective housing projects using heat pumps<br/>
+            <u>Students:</u> Hellen De Winter, Hanne Vermeiren and Arno Marechal<br/>
+            <u>Period:</u> February 2019 - May 2019<br/>
+            <u>Company involved:</u> Thermiek<br/>
+            <br/>
+            <u>Project title:</u> Design and control of a solar assisted ground source heat pump system with seasonal storage<br/>
+            <u>Students:</u> Sigrid Feyaerts and Benoît Miserez<br/>
+            <u>Period:</u> February 2018 - May 2018<br/>
+            <u>Company involved:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Project title:</u> Evaluation of heat pumps in EPB software: do we approach the reality?<br/>
+            <u>Students:</u> Sam Coen, Samuel Demaerel and Adriaan Van Campenhout<br/>
+            <u>Period:</u> February 2017 - May 2017<br/>
+            <u>Company involved:</u> Boydens Engineering<br/>
+            "
+        es: "Dirección a grupos de estudiantes de primer año del máster de Ciencias de la Ingeniería
+            (opción ingeniería mecánica) para resolver proyectos orientados a resolver un problema propuestos por empresas.
+            La intención es retar a los estudiantes con problemas de la 'vida real'.<br/>
+            <br/>
+            <u>Listado de proyectos</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Bombas de calor asistidas por energía solar en EPB<br/>
+            <u>Estudiantes:</u> Emma Michiels and Dylan Broos<br/>
+            <u>Periodo:</u> Febrero 2021 - Mayo 2021<br/>
+            <u>Empresa involucrada:</u> Vlaams Energie- en Klimaatagentschap<br/>
+            <br/>
+            <u>Título:</u> Incrementando la eficiencia a largo plazo de un concepto centralizado de energía libre de combustibles fósiles en un casco histórico<br/>
+            <u>Estudiantes:</u> Arno Messens and Anton Bex<br/>
+            <u>Periodo:</u> Febrero 2021 - Mayo 2021<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Título:</u> Obstáculos en proyectos de agua caliente sanitaria en sistemas centralizados usando bombas de calor<br/>
+            <u>Estudiantes:</u> Hellen De Winter, Hanne Vermeiren and Arno Marechal<br/>
+            <u>Periodo:</u> Febrero 2019 - Mayo 2019<br/>
+            <u>Empresa involucrada:</u> Thermiek<br/>
+            <br/>
+            <u>Título:</u> Diseño y control de un sistema de bomba de calor asistido por energía solar con almacenamiento estacional<br/>
+            <u>Estudiantes:</u> Sigrid Feyaerts and Benoît Miserez<br/>
+            <u>Periodo:</u> Febrero 2018 - Mayo 2018<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Título:</u> Evaluación de bombas de calor usando el software EPB: ¿nos acercamos a la realidad?<br/>
+            <u>Estudiantes:</u> Sam Coen, Samuel Demaerel and Adriaan Van Campenhout<br/>
+            <u>Periodo:</u> Febrero 2017 - Mayo 2017<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>"
+        gl: "Dirección a grupos de estudantes do primeiro ano do mestrado de Ciencias da Enxeñaría
+            (opción enxeñaría mecánica) para resolver proxectos orientados a resolver un problema proposto por unha empresa. 
+            A intención é retar aos estudantes con problemas da 'vida real'.<br/>
+            <br/>
+            <u>Listado de proxectos</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Bombas de calor asistidas por enerxía solar en EPB<br/>
+            <u>Estudantes:</u> Emma Michiels and Dylan Broos<br/>
+            <u>Período:</u> Febreiro 2021 - Maio 2021<br/>
+            <u>Empresa involucrada:</u> Vlaams Energie- en Klimaatagentschap<br/>
+            <br/>
+            <u>Título:</u> Incrementando o rendemento a longo prazo dun concepto centralizado de enerxía libre de combustíbeis fósiles nun casco vello<br/>
+            <u>Estudantes:</u> Arno Messens and Anton Bex<br/>
+            <u>Período:</u> Febreiro 2021 - Maio 2021<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Título:</u> Obstáculos en proxectos de auga quente sanitaria en sistemas centralizados usando bombas de calor<br/>
+            <u>Estudantes:</u> Hellen De Winter, Hanne Vermeiren and Arno Marechal<br/>
+            <u>Período:</u> Febreiro 2019 - Maio 2019<br/>
+            <u>Empresa involucrada:</u> Thermiek<br/>
+            <br/>
+            <u>Título:</u> Deseño y control dun sistema de bomba de calor asistido por enerxía solar con almacenamento estacional<br/>
+            <u>Estudantes:</u> Sigrid Feyaerts and Benoît Miserez<br/>
+            <u>Período:</u> Febreiro 2018 - Maio 2018<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>
+            <br/>
+            <u>Título:</u> Evaluación de bombas de calor usando o software EPB: ¿achegámonos á realidade?<br/>
+            <u>Estudantes:</u> Sam Coen, Samuel Demaerel and Adriaan Van Campenhout<br/>
+            <u>Período:</u> Febreiro 2017 - Maio 2017<br/>
+            <u>Empresa involucrada:</u> Boydens Engineering<br/>"
+    - title:
+        en: Problem solving and design
+        es: Resolución y diseño de problemas
+        gl: Resolución e deseño de problemas
+      period:
+        en: September 2018 - December 2018 
+        es: Septiembre 2018 - Diciembre 2018
+        gl: Setembro 2018 - Decembro 2018
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "Guiding groups of students of the second year in the Bachelor in Engineering Science
+            (option mechanical engineering) in one of their first projects.
+            The topic of this course was to design a soft robot capable of doing an obstacle circuit. 
+            The focus of the course is on working in a team, reporting a design process and going through a design process 
+            from ideating to prototyping."
+        es: "Dirección a grupos de estudiantes de segundo año en el grado de Ciencias de la Ingeniería
+            (opción ingeniería mecánica) en uno de sus primeros proyectos.
+            El objetivo del curso es diseñar un robot blando capaz de realizar un circuito de obstáculos.
+            La intención del curso es el trabajo en equipo y reportar un proceso de diseño desde la idea inicial hasta el prototipado."
+        gl: "Dirección a grupos de estudantes do segundo ano no grado de Ciencias da Enxeñaría
+            (opción enxeñaría mecánica) nun dos seus primeiros proxectos.
+            O obxectivo do curso é deseñar un robot brando capaz de realizar un circuíto de obstáculos.
+            A intención do curso é o traballo en equipo e reportar un proceso de deseño dende a idea inicial ata o prototipado."
+    - title:
+        en: Integrated project energy
+        es: Proyecto de integración energético
+        gl: Proxecto de integración enerxético
+      period:
+        en: January 2017 - May 2017
+        es: Enero 2017 - Mayo 2017
+        gl: Xaneiro 2017 - Maio 2017
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "Guiding groups of students of the first year in the Master in Engineering
+            Science (option energy engineering). The topic of this course was to design
+            a mobility solution to reduce the overall CO<sub>2</sub> emissions. The focus of the
+            course is on working in a team, reporting a design process and being able
+            to properly report the work."
+        es: "Dirección a grupos de estudiantes de primer año del máster de Ciencias de la Ingeniería (opción ingeniería mecánica).
+            El objetivo del curso es diseñar una solución de movilidad para reducir las emisiones de CO<sub>2</sub>.
+            La intención del curso es el trabajo en equipo y reportar adecuadamente un proceso de diseño."
+        gl: "Dirección a grupos de estudantes do primeiro ano do mestrado de Ciencias da Enxeñaría (opción enxeñaría mecánica).
+            O obxectivo do curso é deseñar unha solución de mobilidade para reducir as emisións de CO<sub>2</sub>. 
+            A intención do curso é o traballo en equipo e reportar adecuadamente un proceso de deseño."
+    - title:
+        en: Principles of food machinery
+        es: Principios de maquinaria alimentaria
+        gl: Principios de maquinaria alimentaria
+      period:
+        en: January 2017 - May 2017
+        es: Enero 2017 - Mayo 2017
+        gl: Xaneiro 2017 - Maio 2017
+      place: 
+        en: Katholiek Universiteit Leuven (KU Leuven)
+        es: Universidad Católica de Lovaina (KU Leuven)
+        gl: Universidade Católica de Lovaina (KU Leuven)
+      description: 
+        en: "Teaching exercise sessions for a course on the basics of thermodynamics,
+            applied to food processing. The course was part of an international master
+            programme at the Faculty of Bio-Engineering."
+        es: "Sesiones de ejercicios enfocadas a los principios básicos de termodinámica aplicada al procesado de alimentos. 
+            El curso era parte del programa de máster internacional en la facultad de bioingeniería."
+        gl: "Sesións de exercicios enfocadas aos principios básicos da termodinámica, aplicada ao procesado de alimentos.
+            O curso era parte do programa de máster internacional na faculdade de bioenxeñaría."
+    - title:
+        en: Supervision of bachelor thesis dissertations
+        es: Supervisión de trabajos de fin de grado
+        gl: Supervisión de traballos de fin de grado
+      period:
+        en: September 2016 - July 2017
+        es: Septiembre 2016 - Julio 2017
+        gl: Setembro 2016 - Xullo 2017
+      place: 
+        en: University of Vigo
+        es: Universidad de Vigo
+        gl: Universidade de Vigo
+      description: 
+        en: <u>Dissertation list</u>
+            <br/>
+            <br/>
+            <u>Dissertation title:</u> Design of a geothermal installation using CYPE in a single dwelling home<br/>
+            <u>Student:</u> Serxo Pouso Oujo<br/>
+            <u>Period:</u> September 2016 - July 2017<br/>
+        es: <u>Listado de trabajos de fin de grado</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Uso de CYPE para el diseño de una instalación geotérmica en una vivienda unifamiliar<br/>
+            <u>Estudiante:</u> Serxo Pouso Oujo<br/>
+            <u>Periodo:</u> Septiembre 2016 - Julio 2017<br/>
+        gl: <u>Listado de traballos de fin de grado</u>
+            <br/>
+            <br/>
+            <u>Título:</u> Uso de CYPE para o deseño dunha instalción xeotérmica nunha vivenda unifamiliar<br/>
+            <u>Estudante:</u> Serxo Pouso Oujo<br/>
+            <u>Período:</u> Setembro 2016 - Xullo 2017<br/>
+publications:
+  title:
+    en: Publications
+    es: Publicaciones
+    gl: Publicacións
+  items:
+    - title:
+        en: Long-term sustainable operation of hybrid geothermal systems through optimal control.
+        es: Long-term sustainable operation of hybrid geothermal systems through optimal control.
+        gl: Long-term sustainable operation of hybrid geothermal systems through optimal control.
+      period:
+        en: December 6-8, 2022
+        es: Diciembre 6-8, 2022
+        gl: Decembro 6-8, 2022
+      place: 
+        en: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Ground Source Heat Pump Association Research Track, Las Vegas, NV, USA"
+        es: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Ground Source Heat Pump Association Research Track, Las Vegas, NV, EEUU"
+        gl: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Ground Source Heat Pump Association Research Track, Las Vegas, NV, EEUU"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: Application of a long-term MPC formulation to hybrid GEOTABS buildings.
+        es: Application of a long-term MPC formulation to hybrid GEOTABS buildings.
+        gl: Application of a long-term MPC formulation to hybrid GEOTABS buildings.
+      period:
+        en: September 1-3, 2021
+        es: Septiembre 1-3, 2021
+        gl: Setembro 1-3, 2021
+      place: 
+        en: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brugge, Belgium"
+        es: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brujas, Bélgica"
+        gl: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Bruxas, Bélxica"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: A low-order semi-physical borefield model for optimal control applications.
+        es: A low-order semi-physical borefield model for optimal control applications.
+        gl: A low-order semi-physical borefield model for optimal control applications.
+      period:
+        en: September 1-3, 2021
+        es: Septiembre 1-3, 2021
+        gl: Setembro 1-3, 2021
+      place: 
+        en: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brugge, Belgium"
+        es: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brujas, Bélgica"
+        gl: "Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Bruxas, Bélxica"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: Validated combined first and last year borefield sizing methodlogy.
+        es: Validated combined first and last year borefield sizing methodlogy.
+        gl: Validated combined first and last year borefield sizing methodlogy.
+      period:
+        en: September 1-3, 2021
+        es: Septiembre 1-3, 2021
+        gl: Setembro 1-3, 2021
+      place: 
+        en: "Peere, W., Picard, D., Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brugge, Belgium"
+        es: "Peere, W., Picard, D., Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Brujas, Bélgica"
+        gl: "Peere, W., Picard, D., Cupeiro Figueroa, I. and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2021, Bruxas, Bélxica"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: Fluid temperature predictions of geothermal borefields using load estimations via state observers.
+        es: Fluid temperature predictions of geothermal borefields using load estimations via state observers.
+        gl: Fluid temperature predictions of geothermal borefields using load estimations via state observers.
+      period:
+        en: January 2021
+        es: Enero 2021
+        gl: Xaneiro 2021
+      place: 
+        en: "Cupeiro Figueroa, I., Cimmino, M., Drgoňa, J. and Helsen, L.<br/>
+            Journal of Building Performance Simulation"
+        es: "Cupeiro Figueroa, I., Cimmino, M., Drgoňa, J. and Helsen, L.<br/>
+            Journal of Building Performance Simulation"
+        gl: "Cupeiro Figueroa, I., Cimmino, M., Drgoňa, J. and Helsen, L.<br/>
+            Journal of Building Performance Simulation"
+      description: 
+        en: "Journal publication"
+        es: "Publicación en revista científica"
+        gl: "Publicación en revista científica"
+    - title:
+        en: "A methodology for long-term model predictive control of hybrid geothermal systems: The shadow-cost formulation."
+        es: "A methodology for long-term model predictive control of hybrid geothermal systems: The shadow-cost formulation."
+        gl: "A methodology for long-term model predictive control of hybrid geothermal systems: The shadow-cost formulation."
+      period:
+        en: November 2020
+        es: Noviembre 2020
+        gl: Novembro 2020
+      place: 
+        en: "Cupeiro Figueroa, I., Cimmino, M., and Helsen, L.<br/>
+            Energies MDPI"
+        es: "Cupeiro Figueroa, I., Cimmino, M., and Helsen, L.<br/>
+            Energies MDPI"
+        gl: "Cupeiro Figueroa, I., Cimmino, M., and Helsen, L.<br/>
+            Energies MDPI"
+      description: 
+        en: "Journal publication"
+        es: "Publicación en revista científica"
+        gl: "Publicación en revista científica"
+    - title:
+        en: All you need to know about model predictive control for buildings.
+        es: All you need to know about model predictive control for buildings.
+        gl: All you need to know about model predictive control for buildings.
+      period:
+        en: September 2020
+        es: Septiembre 2020
+        gl: Setembro 2020
+      place: 
+        en: "Drgoňa, J., Arroyo, J, Cupeiro Figueroa, I., Blum, D., Arendt, K., Kim, D., Perarnau Ollé, E., Oravec, J., Wetter, M., Vrabie, D. L., and Helsen, L.<br/>
+            Annual Revies in Control"
+        es: "Drgoňa, J., Arroyo, J, Cupeiro Figueroa, I., Blum, D., Arendt, K., Kim, D., Perarnau Ollé, E., Oravec, J., Wetter, M., Vrabie, D. L., and Helsen, L.<br/>
+            Annual Revies in Control"
+        gl: "Drgoňa, J., Arroyo, J, Cupeiro Figueroa, I., Blum, D., Arendt, K., Kim, D., Perarnau Ollé, E., Oravec, J., Wetter, M., Vrabie, D. L., and Helsen, L.<br/>
+            Annual Revies in Control"
+      description: 
+        en: "Journal publication"
+        es: "Publicación en revista científica"
+        gl: "Publicación en revista científica"
+    - title:
+        en: Short-term modeling of hybrid geothermal systems for Model Predictive Control.
+        es: Short-term modeling of hybrid geothermal systems for Model Predictive Control.
+        gl: Short-term modeling of hybrid geothermal systems for Model Predictive Control.
+      period:
+        en: May 2020
+        es: Mayo 2020
+        gl: Maio 2020
+      place: 
+        en: "Cupeiro Figueroa, I., Picard, D., and Helsen, L.<br/>
+            Energy and Buildings"
+        es: "Cupeiro Figueroa, I., Picard, D., and Helsen, L.<br/>
+            Energy and Buildings"
+        gl: "Cupeiro Figueroa, I., Picard, D., Drgoňa, J. and Helsen, L.<br/>
+            Energy and Buildings"
+      description: 
+        en: "Journal publication"
+        es: "Publicación en revista científica"
+        gl: "Publicación en revista científica"
+    - title:
+        en: State estimators applied to a linear white-box geothermal borefield controller model.
+        es: State estimators applied to a linear white-box geothermal borefield controller model.
+        gl: State estimators applied to a linear white-box geothermal borefield controller model.
+      period:
+        en: September 3-5, 2019
+        es: Septiembre 3-5, 2019
+        gl: Setembro 3-5, 2019
+      place: 
+        en: "Cupeiro Figueroa, I., Drgoňa, J., and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2019, Rome, Italy"
+        es: "Cupeiro Figueroa, I., Drgoňa, J., and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2019, Roma, Italia"
+        gl: "Cupeiro Figueroa, I., Drgoňa, J., and Helsen, L.<br/>
+            Proceedings of International Building Simulation Conference 2019, Roma, Italia"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: Development and impact of a borefield controller model for model predictive control.
+        es: Development and impact of a borefield controller model for model predictive control.
+        gl: Development and impact of a borefield controller model for model predictive control.
+      period:
+        en: August 7-8, 2019
+        es: Agosto 7-8, 2019
+        gl: Agosto 7-8. 2019
+      place: 
+        en: "Cupeiro Figueroa, I., Picard, D., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, USA"
+        es: "Cupeiro Figueroa, I., Picard, D., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, EEUU"
+        gl: "Cupeiro Figueroa, I., Picard, D., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, EEUU"
+      description: 
+        en: "Workshop presentation"
+        es: "Presentación en seminario científico"
+        gl: "Presentación en seminario científico"
+    - title:
+        en: State estimation of control-oriented white-box models for buildings.
+        es: State estimation of control-oriented white-box models for buildings.
+        gl: State estimation of control-oriented white-box models for buildings.
+      period:
+        en: August 7-8, 2019
+        es: Agosto 7-8, 2019
+        gl: Agosto 7-8. 2019
+      place: 
+        en: "Drgoňa, J.,  Cupeiro Figueroa, I., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, USA"
+        es: "Drgoňa, J.,  Cupeiro Figueroa, I., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, EEUU"
+        gl: "Drgoňa, J.,  Cupeiro Figueroa, I., and Helsen, L.<br/>
+            Intelligent Buildings Operation Workshop, Boulder, CO, EEUU"
+      description: 
+        en: "Workshop presentation"
+        es: "Presentación en seminario científico"
+        gl: "Presentación en seminario científico"
+    - title:
+        en: Towards real MPC implementation in an office building using TACO.
+        es: Towards real MPC implementation in an office building using TACO.
+        gl: Towards real MPC implementation in an office building using TACO.
+      period:
+        en: July 9-12, 2018
+        es: Julio 9-12, 2018
+        gl: Xullo 9-12. 2018
+      place: 
+        en: "Jorissen, F., Picard, D., Cupeiro Figueroa, I., Boydens, W., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, USA"
+        es: "Jorissen, F., Picard, D., Cupeiro Figueroa, I., Boydens, W., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, EEUU"
+        gl: "Jorissen, F., Picard, D., Cupeiro Figueroa, I., Boydens, W., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, EEUU"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: State Observer for Optimal Control using White-box Building Models.
+        es: State Observer for Optimal Control using White-box Building Models.
+        gl: State Observer for Optimal Control using White-box Building Models.
+      period:
+        en: July 9-12, 2018
+        es: Julio 9-12, 2018
+        gl: Xullo 9-12. 2018
+      place: 
+        en: "Cupeiro Figueroa, I., Drgoňa, J., Abdollahpouri, M., Picard, D., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, USA"
+        es: "Cupeiro Figueroa, I., Drgoňa, J., Abdollahpouri, M., Picard, D., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, EEUU"
+        gl: "Cupeiro Figueroa, I., Drgoňa, J., Abdollahpouri, M., Picard, D., and Helsen, L.<br/>
+            Proceedings of 5<sup>th</sup> International High Performance Buildings Conference 2018, West Lafayette, IN, EEUU"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: "Model Predictive Control formulation: A review with focus on hybrid GEOTABS buildings."
+        es: "Model Predictive Control formulation: A review with focus on hybrid GEOTABS buildings."
+        gl: "Model Predictive Control formulation: A review with focus on hybrid GEOTABS buildings."
+      period:
+        en: April 24-26, 2018
+        es: Abril 24-26, 2018
+        gl: Abril 24-26. 2018
+      place: 
+        en: "Cupeiro Figueroa, I., Cigler, J., and Helsen, L.<br/>
+            Proceedings of the REHVA Annual Meeting Conference 2018, Brussels, Belgium"
+        es: "Cupeiro Figueroa, I., Cigler, J., and Helsen, L.<br/>
+            Proceedings of the REHVA Annual Meeting Conference 2018, Bruselas, Bélgica"
+        gl: "Cupeiro Figueroa, I., Cigler, J., and Helsen, L.<br/>
+            Proceedings of the REHVA Annual Meeting Conference 2018, Bruxelas, Bélxica"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: "Análisis teórico de los refrigerantes alternativos adecuados para bombas de calor de alta temperatura."
+        es: "Análisis teórico de los refrigerantes alternativos adecuados para bombas de calor de alta temperatura."
+        gl: "Análisis teórico de los refrigerantes alternativos adecuados para bombas de calor de alta temperatura."
+      period:
+        en: May 3-6, 2016
+        es: Mayo 3-6, 2016
+        gl: Maio 3-6. 2016
+      place: 
+        en: "Cupeiro Figueroa, I., Fernández Cid, D., and Fernández Seara, J.<br/>
+            VII Congresso Ibérico & Congresso Ibero-Americano. Ciências e técnicas do frío 2016, Coimbra, Portugal"
+        es: "Cupeiro Figueroa, I., Fernández Cid, D., and Fernández Seara, J.<br/>
+            VII Congresso Ibérico & Congresso Ibero-Americano. Ciências e técnicas do frío 2016, Coimbra, Portugal"
+        gl: "Cupeiro Figueroa, I., Fernández Cid, D., and Fernández Seara, J.<br/>
+            VII Congresso Ibérico & Congresso Ibero-Americano. Ciências e técnicas do frío 2016, Coímbra, Portugal"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
+    - title:
+        en: "Evaluation and optimization of sustainable parameters in machining."
+        es: "Evaluation and optimization of sustainable parameters in machining."
+        gl: "Evaluation and optimization of sustainable parameters in machining."
+      period:
+        en: September 3-5, 2014
+        es: Septiembre 3-5, 2014
+        gl: Setembro 3-5. 2014
+      place: 
+        en: "Cupeiro Figueroa, I., Ares, E., and Cotterell, M.<br/>
+            31<sup>st</sup> International Manufacturing Conference 2014, Cork, Ireland"
+        es: "Cupeiro Figueroa, I., Ares, E., and Cotterell, M.<br/>
+            31<sup>st</sup> International Manufacturing Conference 2014, Cork, Irlanda"
+        gl: "Cupeiro Figueroa, I., Ares, E., and Cotterell, M.<br/>
+            31<sup>st</sup> International Manufacturing Conference 2014, Cork, Irlanda"
+      description: 
+        en: "Conference proceeding"
+        es: "Publicación en conferencia científica"
+        gl: "Publicación en conferencia científica"
