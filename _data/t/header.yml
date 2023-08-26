@@ -11,10 +11,10 @@ resume:
   en: Trajectory
   es: Trayectoria
   gl: Traxectoria
-skills: 
-  en: Skills
-  es: Habilidades
-  gl: Habilidades
+# skills: 
+#   en: Skills
+#   es: Habilidades
+#   gl: Habilidades
 projects: 
   en: Projects
   es: Proyectos

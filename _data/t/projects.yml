@@ -5,82 +5,79 @@ filters:
     text:
       en: All
       es: Todos
-  - data-filter: "mechanical-engineering"
+      gl: Todos
+  - data-filter: "open-source"
     text:
-      en: Mechanical Engineering
-      es: Ingenieria Mecanica
-  - data-filter: "automation"
+      en: Open Source
+      es: Código Abierto
+      gl: Código Aberto
+  - data-filter: "research"
     text:
-      en: Automation
-      es: Automatizacion
-  - data-filter: "software"
+      en: Research 
+      es: Investigación
+      gl: Investigación
+  - data-filter: "buildings"
     text:
-      en: Software
-      es: Software
+      en: Buildings
+      es: Edificios
+      gl: Edificios
+
 
 list:
   - title:
-      en: Modeling of Allotropic Transformations in SAE 4140 Steel
-      es: Modelado de Transformaciones Alotropicas en Acero SAE 4140
+      en: hybrid GEOTABS
+      es: hybrid GEOTABS
+      gl: hybrid GEOTABS
     description:
-      en: Modeling of Allotropic Transformations to Obtain the Hardness of a 
-        Piece as a Function of its Cooling Rate, using Finite Element Technique
-        through Abaqus Software
-      es: Modelado de Transformaciones Alotropicas para Obtener la Dureza de una
-        Pieza en Funcion de su Velocidad de Enfriamiento, usando la tecnica 
-        elemento finitos mediante Abaqus software
-    url: allotropic-transformation
-    filters: software mechanical-engineering
+      en: Controlling the power of the ground by integration
+      es: Control integrado del poder de la tierra
+      gl: Control integrado do poder da terra
+    url: https://www.hybridgeotabs.eu/
+    filters: research buildings
 
   - title:
-      en: Automation System for Tensile Testing Machine
-      es: Automatismo para Maquina de Ensayos de Tracción
+      en: InduFlexControl
+      es: InduFlexControl 
+      gl: InduFlexControl
     description:
-      en: Creation of a UI and backend software using Processing (Java),
-        and the electronics were designed using a Raspberry Pi 3 and an Arduino.
-      es: Creacion de un software para Interfaz de usuario usando Proccesing (Java), 
-        y se diseño la electrónica usando un Rasppery Pi 3 y un Arduino
-    url: tensile-testing-machine
-    filters: automation software
+      en: Design for flexibility for carbon-free energy-intensive industry
+      es: Diseño por la flexibilidad para una industria con uso de energía intensivo libre de emisiones de carbono
+      gl: Deseño pola flexibilidade para unha industria con uso de enerxía intensivo libre de emisións de carbono
+    url: https://moonshotflanders.be/mot4-induflexcontrol/
+    filters: research
 
   - title:
-      en: Pelletizer Design
-      es: Diseño de Peletizadora
+      en: IBPSA Project 1
+      es: IBPSA Project 1
+      gl: IBPSA Project 1
     description:
-      en: Detail Design of Pelletizer, including review of existing prototypes, 
-        modeling of a new machine, and analysis of dynamic stresses.
-      es: Diseño de Detalle de Peletizadora, incluyendo revision de prototipos existentes,
-        modelado de una nueva maquina y analisis de esfuerzos dinamicos.
-    url: pelletizer
-    filters: mechanical-engineering
+      en: BIM/GIS and Modelica Framework for building and community energy system design and operation
+      es: Estructura de trabajo BIM/GIS y Modelica para diseño y operación de edificios y comunidades
+      gl: Estrutura de traballo BIM/GIS e Modelica para deseño e operación de edificios e comunidades
+    url: https://ibpsa.github.io/project1/
+    filters: open-source research buildings
 
   - title:
-      en: Calcium Carbide Plant Automation
-      es: Automatizacion de Planta de Carburo de Calcio
+      en: The Building Optimization Testing Framework (BOPTEST)
+      es: Estructura de testeado de optimización de edificios (BOPTEST)
+      gl: Estrutura de testado de optimización de edificios (BOPTEST)
     description:
-      en: Design and Programming of PLC and SCADA, Supervision of Wiring and Commissioning
-      es: Diseño y Programacion de PLC y SCADA, Supervision de Conexionado y Puesta en Marcha
-    url: calcium-carbide-plant-auto
-    filters: automation
+      en: A framework for building control performance benchmarking
+      es: Estructura virtual de benchmarking para testear el desempeño de controladores en edificios
+      gl: Estrutura virtual de benchmarking para testar o desempeño de controladores en edificios
+    url: https://ibpsa.github.io/project1-boptest/
+    filters: open-source research buildings
 
   - title:
-      en: Computerized Maintenance Management System (CMMS)
-      es: Sistema Computarizado de Gestión de Mantenimiento (CMMS)
+      en: Advanced building models for predictive control (ABMPC)
+      es: Modelos avanzados de edificios para control predictivo (ABMPC)
+      gl: Modelos avanzados de edificios para control preditivo
     description:
-      en: Development and Commissioning of CMMS using Django framework, to generate work orders, and keep track of inventory.
-      es: Desarrollo y Puesta en Marcha de CMMS usando el framework Django, para generar ordenes de trabajo, y llevar control de stock
-    url: cmms
-    filters: software
-
-  - title:
-      en: Customizable and Multilanguage Portfolio
-      es: Portfolio personalizable y multilenguaje
-    description:
-      en: Development of a Multilanguage, Modularized, and Easily Customizable Portfolio, using Jekyll.
-      es: Desarrollo de un Portfolio Multilanguage, modularizado y facilmente personalizable, utilizando Jekyll.
-    url: portfolio
-    filters: software
-
+      en: Innovative AI models for building control
+      es: Modelos innovadores de IA para control de edificios
+      gl: Modelos innovadores de IA para control de edificios
+    url: https://elucidata.be/projects/advanced-building-models-predictive-control-abmpc
+    filters: buildings
   
 
   
