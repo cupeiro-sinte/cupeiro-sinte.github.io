@@ -134,16 +134,30 @@ services:
             En base aos resultados, sacaremos moitas conclusións encamiñadas a optimizar o deseño e a operación da edificación, sempre de xeito integrado.
             ¿Precisas estes servizos noutro tipo de sistema? ¡Cóntanolo!"
     - header:
+        en: "Design and long-term planning of geothermal systems"
+        es: "Diseño y planificación a largo plazo de sistemas geotérmicos"
+        gl: "Deseño e planificación a longo prazo de sistemas xeotérmicos"
+      description:
+        en: "Interested in the energy from Mother Earth? We design the necessary installation to extract it.
+            We carefully incorporate and plan the short- and long-term operation of the geothermal system 
+            to make the most out of it, also to any other system with seasonal energy storage."
+        es: "¿Interesado en la energía de la Madre Tierra? Diseñamos la instalación necesaria para extraerla.
+            Incorporamos y planeamos cuidadosamente la operación a corto y largo plazo del sistema geotérmico
+            para sacarle el máximo partido, también a cualquier otra instalación con almacenamiento estacional de energía."
+        gl: "¿Tes interese na enerxía que ven da Terra Nai? Deseñamos a instalación precisa para extraerla.
+            Engadimos e planificamos coidadosamente a operación a curto e longo prazo do sistema xeotérmico
+            para sacarlle o máximo rendemento, tamén a calqueira outra instalación con almacenamento estacional de enerxía."
+    - header:
         en: "Development and implementation of specialized software"
         es: "Desarrollo e implementación de software especializado"
         gl: "Desenvolvemento e implementación de software especializado"
       description:
         en: "We develop software and data science solutions tailored to integrate and optimize the operation of your building, community or system using predictive and intelligent algorithms.
-            Do you need to implement it? We help you"
+            Do you need to implement it? We help you."
         es: "Desarrollamos soluciones de software y ciencia de datos adaptadas a optimizar la operación de tu edificio, comunidad o sistema de forma integrada usando algoritmos predictivos e inteligentes.
-            ¿Necesitas implementarlo? Te ayudamos" 
+            ¿Necesitas implementarlo? Te ayudamos." 
         gl: "Desenvolvemos solucións de software e ciencia de datos adaptadas a optimizar a operación do teu edificio, comunidade ou sistema de xeito integrado usando algoritmos predictivos e inteligentes.
-            ¿Precisas implementalo? Axudámoste"
+            ¿Precisas implementalo? Axudámoste."
     - header:
         en: "Knowledge transfer"
         es: "Transferencia de conocimiento"
