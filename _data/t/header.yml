@@ -15,6 +15,10 @@ resume:
 #   en: Skills
 #   es: Habilidades
 #   gl: Habilidades
+open-source:
+  en: Open-Source
+  es: Código abierto
+  gl: Código aberto
 projects: 
   en: Projects
   es: Proyectos

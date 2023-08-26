@@ -1,0 +1,71 @@
+#Open-Source Translations
+
+
+list:
+  - title:
+      en: IBPSA Modelica Library
+      es: Librería de Modelica IBPSA
+      gl: Librería de Modelica IBPSA
+    description:
+      en: A Modelica open-source library with basic models that codify best practices for the implementation of models 
+          for building and community energy and control systems developed within IBPSA Project 1.
+      es: Librería de Modelica de código abierto con modelos básicos que establece la estandarización para la implementación de modelos
+          para edificios, comunidades y sistemas de control desarrollada dentro del IBPSA Project 1.
+      gl: Librería de Modelica de código aberto con modelos básicos que establece a estandarización para a implementación de modelos
+          para edificios, comunidades e sistemas de control desenvolvida dentro do IBPSA Project 1.
+    url: https://github.com/ibpsa/modelica-ibpsa
+
+  - title:
+      en: IDEAS Modelica Library
+      es: Librería de Modelica IDEAS 
+      gl: Librería de Modelica IDEAS
+    description:
+      en: A Modelica open-source library for integrated building and district energy simulations developed at KU Leuven
+      es: Librería de Modelica de código abierto para simulaciones integradas de edificios y distritos desarrollada por la KU Leuven
+      gl: Librería de Modelica de código aberto para simulacións integradas de edificios e distritos desenvolvida pola KU Leuven
+    url: https://github.com/open-ideas/IDEAS
+
+  - title:
+      en: Buildings Modelica Library
+      es: Librería de Modelica Buildings
+      gl: Librería de Modelica Buildings
+    description:
+      en: A Modelica open-source library with dynamic simulation models for building and district energy and control systems developed by Lawrence Berkeley National Laboratory.
+      es: Librería de Modelica de código abierto con modelos para simulación dinámica de edificios, distritos y sistemas de control desarrollada por el Laboratorio Nacional Lawrence Berkeley.
+      gl: Librería de Modelica de código aberto con modelos para simulación dinámica de edificios, distritos e sistemas de control desenvolvida polo Laboratorio Nacional Lawrence Berkeley.
+    url: https://github.com/lbl-srg/modelica-buildings
+
+  - title:
+      en: pygfunction
+      es: pygfunction
+      gl: pygfunction
+    description:
+      en: A geothermal borefield g-function calculator for Python developed by prof. Massimo Cimmino at Polytechnique Montréal.
+      es: Calculadora de g-funciones de campos de captación geotérmicos para Python desarrollada por el prof. Massimo Cimmino en la Politécnica de Montreal.
+      gl: Calculadora de g-funcións de campos de captación xeotérmicos para Python desenvolvida polo prof. Massimo Cimmino na Politécnica de Montreal.
+    url: https://github.com/MassimoCimmino/pygfunction
+
+  - title:
+      en: BOPTEST
+      es: BOPTEST
+      gl: BOPTEST
+    description:
+      en: A framework for building control performance benchmarking developed within IBPSA Project 1.
+      es: Estructura virtual de benchmarking para testear el desempeño de controladores en edificios desarrollada dentro del IBPSA Project 1.
+      gl: Estrutura virtual de benchmarking para testar o desempeño de controladores en edificios desenvolvida dentro do IBPSA Project 1.
+    url: https://github.com/ibpsa/project1-boptest
+
+  - title:
+      en: BeSim Toolbox
+      es: BeSim Toolbox
+      gl: BeSim Toolbox
+    description:
+      en: Matlab toolbox for quick design and simulation of advanced building climate control algorithms.
+      es: Entorno de desarrollo en Matlab para diseño rápido y simulación de algoritmos avanzados de control de temperatura en edificios.
+      gl: Entorno de desenvolvemento en Matlab para deseño rápido e simulación de algoritmos avanzados de control de temperatura en edificios.
+    url: https://github.com/drgona/BeSim
+
+
+  
+
+  

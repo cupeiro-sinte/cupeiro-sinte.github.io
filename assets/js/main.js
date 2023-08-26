@@ -161,6 +161,7 @@
   }); /* End 'load' EventListener */
 
 
+
   /**
    * The function generates a random color in HSL format with customizable maximum and minimum values
    * for hue, saturation, and lightness.
@@ -195,6 +196,10 @@
 
   let portfolioItems =  select('.portfolio-item',true);
   portfolioItems.forEach(function(item,i){
+    item.setAttribute("style", "background: " + generateRandomColor(360,0,100,30,40,20))
+  })
+  let openSourceItems =  select('.open-source-item',true);
+  openSourceItems.forEach(function(item,i){
     item.setAttribute("style", "background: " + generateRandomColor(360,0,100,30,40,20))
   })
   let interestsIcons = select('.interest-icon',true);
