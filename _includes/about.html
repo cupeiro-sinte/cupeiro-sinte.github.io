@@ -38,6 +38,18 @@
             <h2>{{ site.data.t.about.interests[page.lang] }}</h2>
           </div>
 
+          <div class="content">
+          
+          {% for service in site.data.t.about.services.list %}
+
+          <h4 class="service-description">{{service.header[page.lang]}}</h4>
+
+          <p>{{service.description[page.lang]}}</p>
+
+          {% endfor %}
+
+          </div>
+
           <div class="row">
             
             {% for interest in site.data.t.about.interests.list %}

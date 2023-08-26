@@ -114,10 +114,45 @@ email:
   gl: Enderezo electrónico
 
 
+services:
+  list:
+    - header:
+        en: "Integration of building energy systems"
+        es: "Integración de los sistemas energéticos de las edificacies"
+        gl: "Integración dos sistemas enerxéticos das edificacións"
+      description:
+        en: ""
+        es: ""
+        gl: ""
+    - header:
+        en: "Development and implementation of specialized software"
+        es: "Desarrollo e implementación de software especializado"
+        gl: "Desenvolvemento e implementación de software especializado"
+      description:
+        en: ""
+        es: "" #Desarrollamos e implementamos soluciones de software y ciencia de datos para solucionar este tipo de problemas exigentes.
+        gl: ""
+    - header:
+        en: "Knowledge transfer"
+        es: "Transferencia de conocimientos"
+        gl: "Transferencia de coñecementos"
+      description:
+        en: "We also realize and promote education, research and consultancy activities with regard to any topic related to our expertise, 
+            both for public and private sectors. "
+        es: "También realizamos y promovemos actividades de educación, investigación y consultoría en cualquier ámbito relacionado con nuestra especialidad, 
+            tanto como para el sector público como el privado."
+        gl: "Tamén facemos e promovemos actividades de educación, investigación e consultoría en calquera ámbito relacionado coa nosa especialidade,
+            tanto no sector público como o privado."
+
+#El ámbito de actividad de Cupeiro Solucións Intelixentes de Enerxía 
+# engloba el modelado y la simulación energética de sistemas térmicos 
+# como edificios y distritos, control óptimo de estos sistemas energéticos usando algoritmos predictivos e inteligencia artificial 
+# y diseño de sistemas térmicos, así como su integración completa en el edificio.
+
 interests:
-  en: Interests
-  es: Mis intereses
-  gl: Os meus intereses
+  en: Services, areas of expertise and interests
+  es: Servicios, áreas de especialización e intereses
+  gl: Servizos, áreas de especialización e intereses
   
   list:
     - text:
@@ -146,9 +181,9 @@ interests:
         gl: Optimización
       icon: ri-list-settings-line
     - text:
-        en: Data science and processing
-        es: Ciencia y procesado de datos 
-        gl: Ciencia e procesado de datos
+        en: Data science, handling and processing
+        es: Ciencia, manejo y procesado de datos 
+        gl: Ciencia, manexo e procesado de datos
       icon: bx bx-data
     - text:
         en: Geotermal, solar and other renewable energies
@@ -165,3 +200,8 @@ interests:
         es: Educación, investigación y código abierto
         gl: Educación, investigación e código aberto
       icon: bx bx-book-open
+    - text:
+        en: Consulting and advice
+        es: Consultoría y asesoría
+        gl: Consultoría e asesoría
+      icon: bx bx-message-dots
