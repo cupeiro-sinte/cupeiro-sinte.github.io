@@ -20,9 +20,9 @@ message:
   es: Mensaje
   gl: Mensaxe
 form-intro:
-  en: Or fill in this contact form to automatically open a new window in your default e-mail client
-  es: O rellena este formulario de contacto para abrir automáticamente una nueva ventana en tu cliente de correo electrónico por defecto
-  gl: Ou enche este formulario de contato para abrir automáticamente unha nova xanela no teu cliente de enderezo electrónico por defecto
+  en: You can fill in this contact form to automatically open a new window in your default e-mail client
+  es: Puedes rellenar este formulario de contacto para abrir automáticamente una nueva ventana en tu cliente de correo electrónico por defecto
+  gl: Podes encher este formulario de contato para abrir automáticamente unha nova xanela no teu cliente de enderezo electrónico por defecto
 loading:
   en: Loading
   es: Enviando

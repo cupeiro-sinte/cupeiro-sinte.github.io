@@ -115,6 +115,9 @@ email:
 
 
 services:
+  en: Services
+  es: Servicios 
+  gl: Servizos
   list:
     - header:
         en: "Integration of building energy systems"
@@ -170,10 +173,11 @@ services:
         gl: "Encántanos aprender. Tamén facemos e promovemos actividades de educación, investigación, divulgación e consultoría en calquera ámbito relacionado coa nosa especialidade,
             tanto presencialmente como de maneira remota."
 
+
 interests:
-  en: Services, areas of expertise and interests
-  es: Servicios, áreas de especialización e intereses
-  gl: Servizos, áreas de especialización e intereses
+  en: Areas of expertise
+  es: Áreas de especialización
+  gl: Áreas de especialización
   
   list:
     - text:

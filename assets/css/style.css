@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Header Top */
 #header.header-top {
   margin-top: 0;
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   right: 0;
@@ -376,7 +376,7 @@ section {
 }
 
 section.section-show {  
-  position: absolute;
+  position: relative;
   top: 100px;
   right: 0;
   bottom: auto;
@@ -384,6 +384,8 @@ section.section-show {
   opacity: 1;
   padding-bottom: 0px;
   z-index: 100;
+  margin-top: 5ex;
+  margin-bottom: 5ex;
 }
 
 section .container {
@@ -403,7 +405,7 @@ section .container {
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
@@ -1392,4 +1394,8 @@ section .container {
 footer{
   display: flex;
   margin-top: 1rem;
+}
+
+* {
+  scroll-margin-top: 100px;
 }

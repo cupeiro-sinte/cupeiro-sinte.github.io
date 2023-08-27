@@ -11,10 +11,10 @@ resume:
   en: Trajectory
   es: Trayectoria
   gl: Traxectoria
-# skills: 
-#   en: Skills
-#   es: Habilidades
-#   gl: Habilidades
+services: 
+  en: Services
+  es: Servicios
+  gl: Servizos
 open-source:
   en: Open-Source
   es: Código abierto

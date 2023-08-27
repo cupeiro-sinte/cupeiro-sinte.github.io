@@ -92,16 +92,18 @@
         header.classList.add('header-top')
         setTimeout(function() {
           sections.forEach((item) => {
-            item.classList.remove('section-show')
+            item.classList.add('section-show')
           })
-          section.classList.add('section-show')
+          //section.classList.add('section-show')
+          section.scrollIntoView()
 
         }, 350);
       } else {
         sections.forEach((item) => {
-          item.classList.remove('section-show')
+          item.classList.add('section-show')
         })
-        section.classList.add('section-show')
+        //section.classList.add('section-show')
+        section.scrollIntoView()
       }
     }
   }, true)

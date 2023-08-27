@@ -32,22 +32,30 @@
             </div> -->
                 <!-- ======= Interests ======= -->
         </div>
-        <div class="interests container">
+        <div class="services container">
 
           <div class="section-title">
-            <h2>{{ site.data.t.about.interests[page.lang] }}</h2>
+            <h2>{{ site.data.t.about.services[page.lang] }}</h2>
           </div>
 
           <div class="content">
           
           {% for service in site.data.t.about.services.list %}
 
-          <h4 class="service-description">{{service.header[page.lang]}}</h4>
+          <h5 class="service-description" style="font-family:sans-serif"><i class="bx bx-right-arrow-circle"></i> {{service.header[page.lang]}}</h5>
 
           <p>{{service.description[page.lang]}}</p>
 
           {% endfor %}
 
+          </div>
+          
+        </div>
+
+        <div class="interests container" style="padding-top:5ex;">
+
+          <div class="section-title">
+            <h2>{{ site.data.t.about.interests[page.lang] }}</h2>
           </div>
 
           <div class="row">
