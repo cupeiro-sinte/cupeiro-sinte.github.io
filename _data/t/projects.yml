@@ -21,6 +21,16 @@ filters:
       en: Buildings
       es: Edificios
       gl: Edificios
+  - data-filter: "ongoing"
+    text:
+      en: Ongoing
+      es: En curso 
+      gl: En proceso
+  - data-filter: "finished"
+    text:
+      en: Finished
+      es: Acabados 
+      gl: Rematados
 
 
 list:
@@ -33,7 +43,7 @@ list:
       es: Control integrado del poder de la tierra
       gl: Control integrado do poder da terra
     url: https://www.hybridgeotabs.eu/
-    filters: research buildings
+    filters: research buildings finished
 
   - title:
       en: InduFlexControl
@@ -44,7 +54,7 @@ list:
       es: Diseño por la flexibilidad para una industria con uso de energía intensivo libre de emisiones de carbono
       gl: Deseño pola flexibilidade para unha industria con uso de enerxía intensivo libre de emisións de carbono
     url: https://moonshotflanders.be/mot4-induflexcontrol/
-    filters: research
+    filters: research finished
 
   - title:
       en: IBPSA Project 1
@@ -55,7 +65,7 @@ list:
       es: Estructura de trabajo BIM/GIS y Modelica para diseño y operación de edificios y comunidades
       gl: Estrutura de traballo BIM/GIS e Modelica para deseño e operación de edificios e comunidades
     url: https://ibpsa.github.io/project1/
-    filters: open-source research buildings
+    filters: open-source research buildings finished
 
   - title:
       en: The Building Optimization Testing Framework (BOPTEST)
@@ -66,7 +76,7 @@ list:
       es: Estructura virtual de benchmarking para testear el desempeño de controladores en edificios
       gl: Estrutura virtual de benchmarking para testar o desempeño de controladores en edificios
     url: https://ibpsa.github.io/project1-boptest/
-    filters: open-source research buildings
+    filters: open-source research buildings ongoing
 
   - title:
       en: Advanced building models for predictive control (ABMPC)
@@ -77,7 +87,7 @@ list:
       es: Modelos innovadores de IA para control de edificios
       gl: Modelos innovadores de IA para control de edificios
     url: https://elucidata.be/projects/advanced-building-models-predictive-control-abmpc
-    filters: buildings
+    filters: buildings ongoing
   
 
   
