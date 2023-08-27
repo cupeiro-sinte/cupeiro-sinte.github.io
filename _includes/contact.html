@@ -62,7 +62,7 @@
       </div>
     </div>
 
-    <form id="contact-form" action="mailto:{{site.author.email}}" method="get" enctype="text/plain" class="php-email-form mt-4">
+    <form id="contact-form" action="mailto:{{site.author.email}}" method="get" enctype="text/plain" class="php-email-form mt-4" style="margin-bottom:5em;">
       <div class="row">
         <div class="form-group mt-3">
           <p>{{site.data.t.contact.form-intro[page.lang]}}</p>
@@ -78,7 +78,7 @@
         <input type="text" class="form-control" name="subject" id="email-subject" placeholder="{{ site.data.t.contact.subject[page.lang] }}" required>
       </div>
       <div class="form-group mt-3">
-        <textarea class="form-control" name="body" rows="5" placeholder="{{ site.data.t.contact.message[page.lang] }}" required></textarea>
+        <textarea class="form-control" name="body" rows="15" placeholder="{{ site.data.t.contact.message[page.lang] }}" required></textarea>
       </div>
       <div class="my-3">
         <div class="loading">{{ site.data.t.contact.loading[page.lang] }}</div>
