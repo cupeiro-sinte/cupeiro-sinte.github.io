@@ -1,4 +1,4 @@
-  <!-- Start Project Section -->
+  <!-- Start Open-Source Section -->
   <section id="open-source" class="open-source">
     <div class="container">
       
@@ -7,6 +7,8 @@
       </div>
 
       <div class="row open-source-container">
+
+        <p>{{site.data.t.open-source.description[page.lang]}}</p>
         
         {% for project in site.data.t.open-source.list %}
         <div class="col-12 col-lg-4 open-source-item {{ project.filters }}">
@@ -34,4 +36,4 @@
     </div>
   </section>
 
-  <!-- End Project Section -->
+  <!-- End Open-Source Section -->
