@@ -278,11 +278,11 @@
   /**
    * Download Resume Button
    */
-  on('click', '#resume .download-resume', function(e) {
-    e.preventDefault()
-    loadHTML2Download(document.querySelector('button.download-resume').getAttribute('url'));
+  // on('click', '#resume .download-resume', function(e) {
+  //   e.preventDefault()
+  //   loadHTML2Download(document.querySelector('button.download-resume').getAttribute('url'));
 
-  },false)
+  // },false)
 
   // Collapsible button logic
 

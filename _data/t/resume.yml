@@ -143,6 +143,22 @@ experience:
     gl: Experiencia
   items:
     - title:
+        en: Founder
+        es: Fundador
+        gl: Fundador
+      period:
+        en: Agosto 2023 - currently
+        es: Agosto 2023 - actualidad
+        gl: Agosto - actualidade
+      place: 
+        en: Cupeiro Solucións Intelixentes de Enerxía
+        es: Cupeiro Solucións Intelixentes de Enerxía
+        gl: Cupeiro Solucións Intelixentes de Enerxía
+      description:
+        en: ""
+        es: ""
+        gl: ""
+    - title:
         en: Building control expert and development engineer
         es: Experto en control de edificios e ingeniero de desarrollo
         gl: Experto en control de edificios e enxeñeiro de desenvolvemento
@@ -274,6 +290,10 @@ teaching:
         en: <u>Thesis list</u>
             <br/>
             <br/>
+            <u>Thesis title:</u> Optimal deployment of thermal energy storage at the demand side of the energy system<br/>
+            <u>Student:</u> Michiel Drenth<br/>
+            <u>Period:</u> January 2021 - November 2022<br/>
+            <br/>
             <u>Thesis title:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
             <u>Student:</u> Brett Lambeets<br/>
             <u>Period:</u> September 2020 - June 2021<br/>
@@ -296,6 +316,10 @@ teaching:
         es: <u>Listado de trabajos de fin de máster</u>
             <br/>
             <br/>
+            <u>Título:</u> Entrega óptima de almacenamiento de energía térmica del lado de la demanda del sistema de energía<br/>
+            <u>Estudiante:</u> Michiel Drenth<br/>
+            <u>Periodo:</u> Enero 2021 - Noviembre 2022<br/>
+            <br/>
             <u>Título:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
             <u>Estudiante:</u> Brett Lambeets<br/>
             <u>Periodo:</u> Septiembre 2020 - Junio 2021<br/>
@@ -317,6 +341,10 @@ teaching:
             <u>Periodo:</u> Septiembre 2017 - Agosto 2018<br/>
         gl: <u>Listado de traballos de fin de mestrado</u>
             <br/>
+            <br/>
+            <u>Título:</u> Entrega óptima de almacenamento de enerxía térmica do lado da demanda do sistema de enerxía<br/>
+            <u>Estudante:</u> Michiel Drenth<br/>
+            <u>Período:</u> Xaneiro 2021 - Novembro 2022<br/>
             <br/>
             <u>Título:</u> Integratie van geothermische opslag voor duurzame datacenterkoeling<br/>
             <u>Estudante:</u> Brett Lambeets<br/>
