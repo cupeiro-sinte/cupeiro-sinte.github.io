@@ -487,8 +487,8 @@ section .container {
 
 .section-about{
   text-align: center;
-  padding-left: 10em;
-  padding-right: 10em;
+  margin-left: 20%;
+  margin-right: 20%;
   padding-bottom: 5em;
   padding-top: 2.5em;
 }
