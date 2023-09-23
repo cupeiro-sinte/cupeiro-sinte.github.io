@@ -360,6 +360,22 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.img-thumbnail{
+  padding:1px;
+  border: solid var(--bs-border-color);
+  border-radius:50%;
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+figcaption p{
+  font-size: 12px;
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
@@ -634,8 +650,12 @@ section .container {
 
 .interests .icon-box i {
   font-size: 32px;
-  padding-right: 10px;
+  padding: 20px;
+  margin: 10px;
   line-height: 1;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
 }
 
 .interests .icon-box h3 {

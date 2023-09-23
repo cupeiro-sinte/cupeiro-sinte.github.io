@@ -1,11 +1,44 @@
 # About me translations
-description: 
+
+about:
+  en: is a digital company founded in 2023.
+      Our objective is to help people and companies on their roadmap towards a more sustainble future using
+      simulation, design and intelligent control of integrated building and district thermal energy systems.
+      Our intelligent control philosophy englobes a path that combines physical model-based optimal control 
+      and artificial intelligent methods such as deep learning.
+  es: es una compañía digital fundada en 2023.
+      Nuestro objetivo es ayudar a personas y empresas en su hoja de ruta de cara a un futuro más sostenible usando
+      la simulación, diseño y el control inteligente de sistemas térmicos y energéticos, 
+      en particular edificios y distritos y su integración completa.
+      Nuestra filosofía de control inteligente engloba una combinación de control óptimo basado en modelos matemáticos que incluyan la física del sistema
+      y métodos de inteligencia artificial, como deep learning.
+  gl: é unha compañía dixital fundada en 2023.
+      O noso obxectivo e axudar a persoas e empresas na súa folla de ruta de cara a un futuro máis sostible usando 
+      a simulación, deseño e o control intelixente de sistemas térmicos e enerxéticos, 
+      en particular edificios e distritos e a súa integración completa.
+      A nosa filosofía de control intelixente engloba unha combinación de control óptimo basado en modelos matemáticos que inclúan a física do sistema
+      e métodos de intelixencia artificial, como deep learning.
+quote:
   en: Hi! I am Iago, founder of Cupeiro Solucións Intelixentes de Enerxía (Sinte). 
       I come from a family with many heating and plumbing installers.
       I want to take this tradition a step further with my engineering and control expertise,
       with the clear mission of reducing the energy use and carbon emissions of the building sector.
-      <br><br>
-      My current interests fall in the simulation and optimal control of integrated building and district thermal energy systems. 
+  es: ¡Hola! Soy Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
+      Vengo de una familia llena de instaladores de calefacción y fontanería. 
+      Me gustaría llevar esta tradición un paso más allá con mis conocimientos en ingeniería y control,
+      con la clara misión de reducir las emisiones de carbono y la energía utilizada por los edificios.
+  gl: ¡Ola! Son Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
+      Veño dunha una familia chea de instaladores de calefación y fontanaría. 
+      Gustaríame levar esta tradición un paso máis alá cos meus coñecementos en enxeñaría e control,
+      coa clara misión de reducir as emisións de carbono e a enerxía utilizada polos edificios.
+
+position:
+  en: Founder 
+  es: Fundador 
+  gl: Fundador
+
+description: 
+  en: My current interests fall in the simulation and optimal control of integrated building and district thermal energy systems. 
       Regarding intelligent control, my philosophy englobes a path that combines physical model-based optimal control and artificial intelligent methods 
       such as deep learning.
       I also have a clear weakness for geothermal energy, the latent energy that comes from the roots of our planet.
@@ -30,12 +63,7 @@ description:
       <br><br>
       In my free time I like all kind of outdoor activities including sports and traveling.
       <br><br>
-  es: ¡Hola! Soy Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
-      Vengo de una familia llena de instaladores de calefacción y fontanería. 
-      Me gustaría llevar esta tradición un paso más allá con mis conocimientos en ingeniería y control,
-      con la clara misión de reducir las emisiones de carbono y la energía utilizada por los edificios.
-      <br><br>
-      Mis intereses incluyen la simulación energética y el control óptimo de sistemas térmicos y energéticos, 
+  es: Mis intereses incluyen la simulación energética y el control óptimo de sistemas térmicos y energéticos, 
       en particular edificios y distritos y su integración completa.
       Con respecto al control inteligente, mi filosofía engloba una combinación de control óptimo basado en modelos matemáticos que incluyan la física del sistema
       y métodos de inteligencia artificial, como deep learning.
@@ -61,12 +89,7 @@ description:
       <br><br>
       En mi tiempo libre me gusta cualquier tipo de actividad al aire libre, incluyendo deportes y viajar.
       <br><br>
-  gl: ¡Ola! Son Iago, fundador de Cupeiro Solucións Intelixentes de Enerxía (Sinte).
-      Veño dunha una familia chea de instaladores de calefación y fontanaría. 
-      Gustaríame levar esta tradición un paso máis alá cos meus coñecementos en enxeñaría e control,
-      coa clara misión de reducir as emisións de carbono e a enerxía utilizada polos edificios.
-      <br><br>
-      Os meus intereses inclúen a simulación enerxética e o control óptimo de sistemas térmicos e enerxéticos, 
+  gl: Os meus intereses inclúen a simulación enerxética e o control óptimo de sistemas térmicos e enerxéticos, 
       en particular edificios e distritos e a súa integración completa.
       Con respeto ao control intelixente, a miña filosofía engloba unha combinación de control óptimo basado en modelos matemáticos que inclúan a física do sistema
       e métodos de intelixencia artificial, como deep learning.
@@ -175,9 +198,9 @@ services:
 
 
 interests:
-  en: Areas of expertise
-  es: Áreas de especialización
-  gl: Áreas de especialización
+  en: Services
+  es: Servicios
+  gl: Servizos
   
   list:
     - text:
