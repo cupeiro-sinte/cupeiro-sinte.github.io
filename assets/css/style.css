@@ -487,10 +487,10 @@ section .container {
 
 .section-about{
   text-align: center;
-  padding-left: 5em;
-  padding-right: 5em;
+  padding-left: 10em;
+  padding-right: 10em;
   padding-bottom: 5em;
-  padding-top: 0.5em;
+  padding-top: 2.5em;
 }
 
 /*--------------------------------------------------------------
