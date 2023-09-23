@@ -360,7 +360,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.img-thumbnail{
+.img-profile{
   padding:1px;
   border: solid var(--bs-border-color);
   border-radius:50%;
