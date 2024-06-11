@@ -1,5 +1,5 @@
 ---
 lang: gl
 layout: "default"
-title: "Cupeiro Sinte"
+title: "Cupeiro Solucións Intelixentes de Enerxía"
 ---
