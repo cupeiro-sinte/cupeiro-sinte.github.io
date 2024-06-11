@@ -336,6 +336,15 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+.img-logo{
+  height: 175px;
+}
+
+#header.header-top .img-logo {
+  height: 75px;
+}
+
+
 #header.header-top h1 {
   margin-right: auto;
   font-size: 28px;
