@@ -337,11 +337,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .img-logo{
-  height: 3.75em;
+  max-height: 135px;
+  max-width: 100%;
 }
 
 #header.header-top .img-logo {
-  height: 2.7em;
+  max-width: 100%;
+  max-height: 50px;
 }
 
 
